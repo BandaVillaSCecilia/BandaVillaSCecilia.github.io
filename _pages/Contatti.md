@@ -31,6 +31,7 @@ permalink: /contatti/
 ## Siti dei nostri amici
 - [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/)
 - [Congedati della Fanfara Brigata Alpina Taurinense](http://www.congedatifanfarataurinense.it/)
+- [Associazione Amici dei Bambini Cardiopatici](https://www.aabambinicardiopatici.it/)
 - [Amici del Po](http://www.amicidelpo.net/)
 - [Comitato 'l ciuchè](http://www.comitatolciuche.it/)
 - [Traghetto sul fiume Po](http://web.tiscali.it/traghettosulpo/)
