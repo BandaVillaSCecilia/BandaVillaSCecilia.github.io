@@ -6,9 +6,8 @@ permalink: /contatti/
 - **Sede:** [Via Valzania 10, 10068 Villafranca Piemonte (TO)](https://goo.gl/maps/JkA22AhpLdE2) 
 - **Telefono:**  (+39) 333 954 8866
 - **E-Mail:** <info@bandavillafrancapiemonte.it>
-- **Facebook:** [http://bit.ly/FacebookBandaVilla](http://bit.ly/FacebookBandaVilla)
-- **Youtube:** [https://www.youtube.com/user/BandaSCeciliaVIlla](https://www.youtube.com/user/BandaSCeciliaVIlla
-)
+- **Facebook:** [fb.me/BandaVillafrancaPiemonte](http://bit.ly/FacebookBandaVilla)
+- **Youtube:** [yt.be/BandaVillafrancaPiemonte](https://www.youtube.com/user/BandaSCeciliaVIlla)
 
 ## Direttivo & Cariche
 - **Maestro:** Prof. FACCIN Alessandro
