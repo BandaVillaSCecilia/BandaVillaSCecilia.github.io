@@ -1,7 +1,7 @@
 ---
 layout: single
 ---
-Nel quadro della mostra per celebrare gli 820 anni di fondazione di Villafranca Piemonte, la Banda Musicale partecipa con un cartellone che illustra la storia della nostra Associazione, dagli albori dei primi documenti storici fino ai giorni nostri. Sono esposte anche alcune divise storiche di musici e majorettes insime a strumenti di repertorio.  
+Nel quadro della mostra per celebrare gli 820 anni di fondazione di Villafranca Piemonte, la Banda Musicale partecipa con un cartellone che illustra la storia della nostra Associazione, dagli albori dei primi documenti storici fino ai giorni nostri. Sono esposte anche alcune divise storiche di musici e majorettes insieme a strumenti di repertorio.  
 {: .text-justify}  
 
 {% include figure image_path="/assets/images/posts/20170528/edit.jpg" alt="Estratto de 'L'Edit' riguardante la Banda" caption="Estratto de 'L'Edit' riguardante la Banda" %}
