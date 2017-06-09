@@ -20,7 +20,9 @@ main:
     url: /storia/
   - title: "Calendario Eventi"
     url: /calendario/
-  - title: "Galleria"
+  - title: "La Galleria"
     url: /galleria/
-  - title: "Contatti"
+  - title: "I Video"
+    url: /video/
+  - title: "I Contatti"
     url: /contatti/
