@@ -12,7 +12,7 @@ Abbiamo pubblicato il calendario online di prove e servizi della nostra Banda Mu
 
   {% include figure image_path="/assets/images/posts/20170529/1.png" alt="Step1" %}  
 
-  - Verrà aperta una finestra che vi porterà all'indirizzo del vostro calendario google [calendar.google.com](https://calendar.google.com). Eseguite il login con il vostro account Google usato sul vostro smartphone Android o iOS.  
+  - Verrà aperta una finestra che vi porterà all'indirizzo del vostro calendario Google [calendar.google.com](https://calendar.google.com). Eseguite il login con il vostro account Google usato sul vostro smartphone Android o iOS.  
   {% include figure image_path="/assets/images/posts/20170529/2.png" alt="Step2" %}  
 
   - Dopo il login vi si presenterà una schermata di conferma. Cliccate su "Si, aggiungi questo calendario".  
