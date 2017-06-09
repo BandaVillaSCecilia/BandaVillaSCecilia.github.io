@@ -6,18 +6,20 @@ Abbiamo pubblicato il calendario online di prove e servizi della nostra Banda Mu
 
 ## Guida di aggiunta del calendario
 
-    1. Visitate [bandavillafrancapiemonte.it/calendario](http://www.bandavillafrancapiemonte.it/calendario/)
+  1. Visitate [bandavillafrancapiemonte.it/calendario](http://www.bandavillafrancapiemonte.it/calendario/)
 
-    2. Cliccate sul pulsante *"+GoogleCalendario"* in basso a destra del calendario online.  
-    {% include figure image_path="/assets/images/posts/20170529/1.png" alt="Step1" %}  
+  2. Cliccate sul pulsante *"+GoogleCalendario"* in basso a destra del calendario online.  
 
-    3. Verrà aperta una finestra che vi porterà all'indirizzo del vostro calendario google [calendar.google.com](https://calendar.google.com). Eseguite il login con il vostro account Google usato sul vostro smartphone Android o iOS.  
-    {% include figure image_path="/assets/images/posts/20170529/2.png" alt="Step2" %}  
+  {% include figure image_path="/assets/images/posts/20170529/1.png" alt="Step1" %}  
 
-    4. Dopo il login vi si presenterà una schermata di conferma. Cliccate su "Si, aggiungi questo calendario".  
-    {% include figure image_path="/assets/images/posts/20170529/3.png" alt="Step3" %}  
+  3. Verrà aperta una finestra che vi porterà all'indirizzo del vostro calendario google [calendar.google.com](https://calendar.google.com). Eseguite il login con il vostro account Google usato sul vostro smartphone Android o iOS.  
+  {% include figure image_path="/assets/images/posts/20170529/2.png" alt="Step2" %}  
 
-    5. A seconda del vostro smartphone potrebbe essere necessario abilitare la visualizzazione del nuovo calendario nelle impostazioni della vostra applicazione *Calendario*.
+  4. Dopo il login vi si presenterà una schermata di conferma. Cliccate su "Si, aggiungi questo calendario".  
+
+  {% include figure image_path="/assets/images/posts/20170529/3.png" alt="Step3" %}  
+
+  5. A seconda del vostro smartphone potrebbe essere necessario abilitare la visualizzazione del nuovo calendario nelle impostazioni della vostra applicazione *Calendario*.
 
 ## Calendario Online
 
