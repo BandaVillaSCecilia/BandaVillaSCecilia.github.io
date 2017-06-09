@@ -2,6 +2,10 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: https://goo.gl/photos/cmgJP43irot6MbXu5
+    image_path: /assets/images/gallery_thumbnails/Avis2016.jpg
+    alt: "AVIS 2016 @ Villafranca Piemonte"
+    title: "AVIS 2016 @ Villafranca Piemonte"
   - url: https://goo.gl/photos/WrNZVpyFD73c8dBw9
     image_path: /assets/images/gallery_thumbnails/25Aprile2016.jpg
     alt: "Festa della Liberazione 2016 @ Villafranca Piemonte"
