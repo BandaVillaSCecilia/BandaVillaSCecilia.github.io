@@ -8,6 +8,8 @@ permalink: /contatti/
 - **E-Mail:** <info@bandavillafrancapiemonte.it>
 - **Facebook:** [fb.me/BandaVillafrancaPiemonte](http://bit.ly/FacebookBandaVilla)
 - **Youtube:** [yt.be/BandaVillafrancaPiemonte](https://www.youtube.com/user/BandaSCeciliaVIlla)
+- **Google+:** [g.co/+BandaAutonomaSantaCeciliaVillafrancaPiemonte](https://plus.google.com/+BandaAutonomaSantaCeciliaVillafrancaPiemonte)
+- **Instagram:** [instagr.am/majorette_villafranca](https://www.instagram.com/majorette_villafranca)
 
 ## Direttivo & Cariche
 - **Maestro:** Prof. FACCIN Alessandro
