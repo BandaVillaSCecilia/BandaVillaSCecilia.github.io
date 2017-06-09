@@ -2,6 +2,8 @@
 layout: single
 permalink: /contatti/
 ---
+{% include toc %}
+
 # Contatti
 - **Sede:** [Via Valzania 10, 10068 Villafranca Piemonte (TO)](https://goo.gl/maps/JkA22AhpLdE2) 
 - **Telefono:**  (+39) 333 954 8866
