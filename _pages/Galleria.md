@@ -2,6 +2,10 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: https://goo.gl/photos/WrNZVpyFD73c8dBw9
+    image_path: /assets/images/gallery_thumbnails/25Aprile2016.jpg
+    alt: "Festa della Liberazione 2016 @ Villafranca Piemonte"
+    title: "Festa della Liberazione 2016 @ Villafranca Piemonte"
   - url: https://goo.gl/photos/CRSkocFUqPskRfgu5
     image_path: /assets/images/gallery_thumbnails/LaLoupe.jpg
     alt: "Gemellaggio con l'Harmonie de la Loupe"
