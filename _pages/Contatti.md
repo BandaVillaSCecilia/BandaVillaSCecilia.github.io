@@ -14,6 +14,7 @@ permalink: /contatti/
 - **Youtube:** [yt.be/BandaVillafrancaPiemonte](https://www.youtube.com/user/BandaSCeciliaVIlla)
 - **Google+:** [g.co/+BandaAutonomaSantaCeciliaVillafrancaPiemonte](https://plus.google.com/+BandaAutonomaSantaCeciliaVillafrancaPiemonte)
 - **Instagram:** [instagr.am/majorette_villafranca](https://www.instagram.com/majorette_villafranca)
+- **Soundcloud:** [snd.cld/BandaVillafrancaPiemonte](https://soundcloud.com/user-208523024)
 
 ## Direttivo & Cariche
 - **Maestro:** Prof. FACCIN Alessandro
