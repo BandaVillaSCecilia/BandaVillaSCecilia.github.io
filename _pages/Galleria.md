@@ -2,6 +2,14 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: https://goo.gl/photos/Yad4xQD9rk1hrfb48
+    image_path: /assets/images/gallery_thumbnails/cecilia2016.jpg
+    alt: "Santa Cecilia 2016 @ Villafranca Piemonte"
+    title: "Santa Cecilia 2016 @ Villafranca Piemonte"
+  - url: https://goo.gl/photos/Sx2Kw1p4fBkUKR9u9
+    image_path: /assets/images/gallery_thumbnails/4novembre2016.jpg
+    alt: "Festa dell'Unità nazionale 2016 @ Villafranca Piemonte"
+    title: "Festa dell'Unità nazionale 2016 @ Villafranca Piemonte"
   - url: https://goo.gl/photos/cmgJP43irot6MbXu5
     image_path: /assets/images/gallery_thumbnails/Avis2016.jpg
     alt: "AVIS 2016 @ Villafranca Piemonte"
@@ -10,10 +18,26 @@ gallery:
     image_path: /assets/images/gallery_thumbnails/25Aprile2016.jpg
     alt: "Festa della Liberazione 2016 @ Villafranca Piemonte"
     title: "Festa della Liberazione 2016 @ Villafranca Piemonte"
+  - url: https://goo.gl/photos/BMRRAtnxLGx9erPi8
+    image_path: /assets/images/gallery_thumbnails/pescatori2015.jpg
+    alt: "Pescatori 2015 @ Villafranca Piemonte"
+    title: "Pescatori 2015 @ Villafranca Piemonte"
   - url: https://goo.gl/photos/skUr63Y34qnPqR6X9
     image_path: /assets/images/gallery_thumbnails/saggio2015.jpg
     alt: "Saggio corso nelle scuole 2015 @ Villafranca Piemonte"
     title: "Saggio corso nelle scuole 2015 @ Villafranca Piemonte"
+  - url: https://goo.gl/photos/SuEY2p36QuAbmP7CA
+    image_path: /assets/images/gallery_thumbnails/anna2014.jpg
+    alt: "Sant'Anna 2014 @ Villafranca Piemonte"
+    title: "Sant'Anna 2014 @ Villafranca Piemonte"
+  - url: https://goo.gl/photos/qyGpfJjz79KyK1P58
+    image_path: /assets/images/gallery_thumbnails/estate2014.jpg
+    alt: "Concerto d'Estate 2014 con la Banda Sangermanese @ Villafranca Piemonte"
+    title: "Concerto d'Estate 2014 con la Banda Sangermanese @ Villafranca Piemonte"
+  - url: https://goo.gl/photos/XbHLUtPcewiVPeKa7
+    image_path: /assets/images/gallery_thumbnails/isidoro2014.jpg
+    alt: "Festa di Sant'Isidoro 2014 @ Villafranca Piemonte"
+    title: "Festa di Sant'Isidoro 2014 @ Villafranca Piemonte"
   - url: https://goo.gl/photos/CRSkocFUqPskRfgu5
     image_path: /assets/images/gallery_thumbnails/LaLoupe.jpg
     alt: "Gemellaggio con l'Harmonie de la Loupe"
