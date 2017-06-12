@@ -15,6 +15,7 @@ In questa giornata di festa per la nostra Associazione abbiamo celebrato un avve
 {: .text-justify}  
 
 Un augurio quindi ai nostri musici:
+
     - **BEDINO Rino** per i suoi **60 anni** di servizio nella Banda di Villafranca Piemonte
     - **DOLEATTO Lorenzo** per i suoi **25 anni** di servizio nella Banda di Villafranca Piemonte
     - **GIACOSA Luca** per i suoi **25 anni** di servizio nella Banda di Villafranca Piemonte
