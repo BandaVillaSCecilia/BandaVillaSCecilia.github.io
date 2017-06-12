@@ -1,13 +1,16 @@
 ---
 layout: single
 gallery:
-  - image_path: /assets/images/posts/20161119/1.JPG
+  - url: /assets/images/posts/20161119/1.JPG
+    image_path: /assets/images/posts/20161119/1.JPG
     alt: "Premiazione Rino BEDINO"
     title: "Premiazione Rino BEDINO"
-  - image_path: /assets/images/posts/20161119/2.JPG
+  - url: /assets/images/posts/20161119/2.JPG
+    image_path: /assets/images/posts/20161119/2.JPG
     alt: "Premiazione Andrea ROLLE'"
     title: "Premiazione Andrea ROLLE'"
-  - image_path: /assets/images/posts/20161119/3.JPG
+  - url: /assets/images/posts/20161119/3.JPG
+    image_path: /assets/images/posts/20161119/3.JPG
     alt: "Premiazione Lorenzo DOLEATTO e Luca GIACOSA"
     title: "Premiazione Lorenzo DOLEATTO e Luca GIACOSA"
 ---
