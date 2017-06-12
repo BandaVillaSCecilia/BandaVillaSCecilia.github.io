@@ -20,6 +20,7 @@ Un augurio quindi ai nostri musici:
     - **DOLEATTO Lorenzo** per i suoi **25 anni** di servizio nella Banda di Villafranca Piemonte
     - **GIACOSA Luca** per i suoi **25 anni** di servizio nella Banda di Villafranca Piemonte
     - **ROLLE' Andrea** per i suoi **60 anni** di servizio nella Banda di Villafranca Piemonte
+    
 {: .text-justify}  
 
 Che possano continuare a coltivare la loro passione per la musica nella nostra Associazione ancora per molto tempo!
