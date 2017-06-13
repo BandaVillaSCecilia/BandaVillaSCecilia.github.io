@@ -14,9 +14,9 @@ description              : "Sito Web della Banda Musicale Autonoma Santa Cecilia
 url                      : "http://www.bandavillafrancapiemonte.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "BandaVillaSCecilia/BandaVillaSCecilia.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/logo.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : #"Banda Musicale Autonoma Santa Cecilia"
-  avatar           : "/assets/images/logo.png"
+  avatar           : "/assets/images/logo.jpg"
   bio              : #""
   location         : "Villafranca Piemonte"
   email            : "info@bandavillafrancapiemonte.it"
