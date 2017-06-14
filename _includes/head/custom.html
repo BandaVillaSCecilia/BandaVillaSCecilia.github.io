@@ -21,4 +21,20 @@
 <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+<!--Notification OneSignal-->
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+      appId: "1cca0a8d-5a54-4403-baa3-01cb77c1fa81",
+      autoRegister: true, /* Set to true to automatically prompt visitors */
+      httpPermissionRequest: {
+        enable: true
+      },
+      notifyButton: {
+          enable: false /* Set to false to hide */
+      }
+    }]);
+  </script>
+
 <!-- end custom head snippets -->
