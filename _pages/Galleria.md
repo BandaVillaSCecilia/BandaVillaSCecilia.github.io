@@ -2,6 +2,10 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: https://goo.gl/photos/ysVAdYvQsMQyuDbH8
+    image_path: /assets/images/gallery_thumbnails/Cavallermaggiore2017.jpg
+    alt: "Raduno Alpini @ Cavallermaggiore"
+    title: "Raduno Alpini @ Cavallermaggiore"
   - url: https://goo.gl/photos/Yad4xQD9rk1hrfb48
     image_path: /assets/images/gallery_thumbnails/cecilia2016.jpg
     alt: "Santa Cecilia 2016 @ Villafranca Piemonte"
