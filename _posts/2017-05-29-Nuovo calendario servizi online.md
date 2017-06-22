@@ -26,7 +26,7 @@ Abbiamo pubblicato il calendario online di prove e servizi della nostra Banda Mu
 <style>
 .map-responsive{
     overflow:hidden;
-    padding-bottom:56.25%;
+    padding-bottom:75%;
     position:relative;
     height:0;
 }
