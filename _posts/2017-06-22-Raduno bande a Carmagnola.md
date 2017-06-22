@@ -7,4 +7,7 @@ In occasione dei festeggiamenti per il 180° anniversario della Società Filarmo
 L'evento si terrà DOMENICA 25/06/17 ore 16 – P.zza Sant’Agostino , Carmagnola  
 {: .text-justify}  
 
+Per maggiori informazioni visitate il sito [bandacarmagnola.it](http://bandacarmagnola.it/)
+{: .text-justify}  
+
 {% include figure image_path="/assets/images/posts/20170622/radunocarmagnola.jpg" alt="Raduno Bande @ Carmagnola" caption="Raduno Bande @ Carmagnola" %}
