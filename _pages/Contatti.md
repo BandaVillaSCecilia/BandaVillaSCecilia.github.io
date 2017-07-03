@@ -31,7 +31,8 @@ permalink: /contatti/
 
 ## Riferimenti
 - [Comune di Villafranca Piemonte](http://www.comune.villafrancapiemonte.to.it/)
-- [Anbima Piemonte](http://www.anbimapiemonte.it/)
+- [Anbima Torino](http://www.anbima.it/torino)
+- [Anbima Piemonte](http://www.anbima.it/piemonte)
 - [Anbima Nazionale](http://www.anbima.it/)
 - [Mondo Bande](http://www.mondobande.it/)
 - [BandaMusicale.it](http://www.bandamusicale.it/)
