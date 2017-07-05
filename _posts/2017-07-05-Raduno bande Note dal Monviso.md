@@ -18,6 +18,11 @@ Appuntamento dunque in Piazza Vittorio Veneto a Villafranca Piemonte!
 
 {% include figure image_path="/assets/images/posts/20170614/notedalmonviso.jpg" alt="Raduno Bande del Monviso @ Villafranca Piemonte" caption="Raduno Bande del Monviso @ Villafranca Piemonte" %}
 
+## Percorsi
+
+In questa mappa sono evidenziati i percorsi che le diverse Bande seguiranno per le vie del paese prima di riunirsi in Piazza Vittorio Veneto.  
+{: .text-justify}  
+
 <style>
 .map-responsive{
     overflow:hidden;
