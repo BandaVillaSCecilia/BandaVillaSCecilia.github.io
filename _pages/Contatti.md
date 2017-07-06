@@ -8,7 +8,11 @@ permalink: /contatti/
 - **Sede:** [Via Valzania 10, 10068 Villafranca Piemonte (TO)](https://goo.gl/maps/JkA22AhpLdE2) 
 - **Telefono:**  (+39) 333 954 8866
 - **E-Mail:** <info@bandavillafrancapiemonte.it>
+
+## Documenti scaricabili
+- **Coordinate Associazione:** [Scaricate il documento qui](http://bit.ly/CoordinateBandaVillafrancaPiemonte)
 - **Loghi Associazione:** [goo.gl/LoghiBandaVillafrancaPiemonte](https://goo.gl/photos/YWD926QuJKqdVPVA8)
+- **Breve Storia dell'Associazione:** [Scaricate il documento qui](http://bit.ly/BreveStoriaBandaVillafrancaPiemonte)
 
 ## Social Networks
 - **Facebook:** [fb.me/BandaVillafrancaPiemonte](http://bit.ly/FacebookBandaVilla)
