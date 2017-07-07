@@ -75,6 +75,9 @@ gallery:
     alt: "Immagini storiche"
     title: "Immagini storiche"
 ---
+
+## Galleria Fotografica
+
 Qui di seguito la galleria fotografica della nostra Banda Musicale. Cliccando su una foto verrete reinderizzati al corrispettivo album fotografico.
 {: .text-justify}
 

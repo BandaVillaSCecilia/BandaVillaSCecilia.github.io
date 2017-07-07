@@ -2,6 +2,9 @@
 layout: single
 permalink: /calendario/
 ---
+
+## Calendario
+
 Calendario di prove e servizi della nostra Banda Musicale.
 
 Una guida su come aggiungerlo al proprio calendario personale si può trovare [qui.](/Nuovo-calendario-servizi-online/)
