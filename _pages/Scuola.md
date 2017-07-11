@@ -10,7 +10,7 @@ Per qualunque altra informazione visitate la sezione [contatti](/contatti/).
 {: .text-justify}  
 
 ### Scuola Musici
-Chi fosse interessato ad imparare a suonare uno strumento musicale, può recarsi, per informazioni, presso la sede della Banda Musicale in [v. Valzania 10](https://goo.gl/maps/FR5SmNdcfMH2) tutti i venerdì a partire dalle ore 21.00.  
+Chi fosse interessato ad imparare a suonare uno strumento musicale, può recarsi, per informazioni, presso la sede della Banda Musicale in [v. Valzania 10](https://goo.gl/maps/FR5SmNdcfMH2) tutti i venerdì a partire dalle ore 21.00. L'età minima per iniziare la scuola è di 7-8 anni.
 {: .text-justify}  
 
 <style>
@@ -39,7 +39,7 @@ La scuola per majorettes viene gestita dall'istruttrice del gruppo. Normalmente 
 La scuola si trova nella palestra della *"Scuola Elementare G. Marconi"* in [v. Campra n° 1](https://goo.gl/maps/Biz9QT7MX7x) ed è aperta ai seguenti orari:
 {: .text-justify}  
 
-- Lunedì  20.00-21.00
+- Lunedì  20.30-21.30
 
 <div class="map-responsive">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5664.126406689715!2d7.4942183!3d44.7795168!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x49e101eda561a0fa!2sScuola+Elementare!5e0!3m2!1sen!2sit!4v1497259164017" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
