@@ -2,6 +2,10 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: https://photos.app.goo.gl/uOM45KtOTQCgrUL03
+    image_path: /assets/images/gallery_thumbnails/NoteDalMonviso2017.jpg
+    alt: "Raduno Note dal Monviso 2017 @ Villafranca Piemonte"
+    title: "Raduno Note dal Monviso 2017 @ Villafranca Piemonte"
   - url: https://goo.gl/photos/ysVAdYvQsMQyuDbH8
     image_path: /assets/images/gallery_thumbnails/Cavallermaggiore2017.jpg
     alt: "Raduno Alpini @ Cavallermaggiore"
