@@ -13,4 +13,6 @@ All'evento hanno partecipato le bande di Barge, Paesana, Vigone e Villafranca Pi
 Un ringraziamento va ad Alice BALLARI per la gentile concessione delle fotografie.
 {: .text-justify}  
 
+Cliccando sulla fotografia sarete reinderizzati all'album fotografico.
+
 {% include gallery caption="Raduno Bande del Monviso @ Villafranca Piemonte" %}
