@@ -1,7 +1,7 @@
 ---
 layout: single
 gallery:
-  - url: https://photos.app.goo.gl/uOM45KtOTQCgrUL03
+  - url: http://bit.ly/GalleryNoteDalMonviso2017
     image_path: /assets/images/gallery_thumbnails/NoteDalMonviso2017.jpg
     alt: "Raduno Bande del Monviso @ Villafranca Piemonte"
     title: "Raduno Bande del Monviso @ Villafranca Piemonte"
