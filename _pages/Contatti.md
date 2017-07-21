@@ -11,15 +11,15 @@ permalink: /contatti/
 
 ## Documenti scaricabili
 - **Coordinate Associazione:** [Scaricate il documento qui](http://bit.ly/CoordinateBandaVillafrancaPiemonte)
-- **Loghi Associazione:** [goo.gl/LoghiBandaVillafrancaPiemonte](https://goo.gl/photos/YWD926QuJKqdVPVA8)
+- **Loghi Associazione:** [goo.gl/LoghiBandaVillafrancaPiemonte](http://bit.ly/LoghiBandaVillafrancaPiemonte)
 - **Breve Storia dell'Associazione:** [Scaricate il documento qui](http://bit.ly/BreveStoriaBandaVillafrancaPiemonte)
 
 ## Social Networks
 - **Facebook:** [fb.me/BandaVillafrancaPiemonte](http://bit.ly/FacebookBandaVilla)
-- **Youtube:** [yt.be/BandaVillafrancaPiemonte](https://www.youtube.com/user/BandaSCeciliaVIlla)
-- **Google+:** [g.co/+BandaAutonomaSantaCeciliaVillafrancaPiemonte](https://plus.google.com/+BandaAutonomaSantaCeciliaVillafrancaPiemonte)
-- **Instagram:** [instagr.am/majorette_villafranca](https://www.instagram.com/majorette_villafranca)
-- **Soundcloud:** [snd.cld/BandaVillafrancaPiemonte](https://soundcloud.com/user-208523024)
+- **Youtube:** [yt.be/BandaVillafrancaPiemonte](http://bit.ly/YoutubeBandaVilla)
+- **Google+:** [g.co/+BandaAutonomaSantaCeciliaVillafrancaPiemonte](http://bit.ly/GPlusBandaVilla)
+- **Instagram:** [instagr.am/majorette_villafranca](http://bit.ly/InstagramBandaVilla)
+- **Soundcloud:** [snd.cld/BandaVillafrancaPiemonte](http://bit.ly/SoundcloudBandaVilla)
 
 ## Direttivo & Cariche
 - **Maestro:** Prof. FACCIN Alessandro

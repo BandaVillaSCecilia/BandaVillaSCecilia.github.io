@@ -5,7 +5,7 @@ permalink: /video/
 
 ## Video
 
-Un estratto della galleria video della nostra Banda, visibile sul nostro canale [YouTube](https://www.youtube.com/user/BandaSCeciliaVIlla).  
+Un estratto della galleria video della nostra Banda, visibile sul nostro canale [YouTube](http://bit.ly/YoutubeBandaVilla).  
 {: .text-justify}  
 
 ### Note da Film - Santa Cecilia 2016  
