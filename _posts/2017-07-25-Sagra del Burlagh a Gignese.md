@@ -2,6 +2,7 @@
 layout: single
 ---
 Domenica 30/07 ultimo appuntamento per la nostra Banda Musicale prima delle meritate vacanze estive! Si tratta di una giornata di musica che passeremo suonando alla Sagra del Burlagh a Gignese (VCO). Al pomeriggio ci rilasseremo visitando la città di Stresa che dista pochi minuti da Gignese.  
+{: .text-justify}  
 
 <style>
 .map-responsive{
