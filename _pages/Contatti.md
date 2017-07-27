@@ -42,6 +42,7 @@ permalink: /contatti/
 - [BandaMusicale.it](http://www.bandamusicale.it/)
 
 ## Siti dei nostri amici
+- [Pinerolo Play](http://www.pineroloplay.it)
 - [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/)
 - [Congedati della Fanfara Brigata Alpina Taurinense](http://www.congedatifanfarataurinense.it/)
 - [Associazione Amici dei Bambini Cardiopatici](https://www.aabambinicardiopatici.it/)
