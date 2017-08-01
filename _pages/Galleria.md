@@ -2,6 +2,10 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: http://bit.ly/Gignese2017
+    image_path: /assets/images/gallery_thumbnails/gignese2017.jpg
+    alt: "Sagra del Burlagh @ Gignese"
+    title: "Sagra del Burlagh @ Gignese"
   - url: http://bit.ly/GalleryNoteDalMonviso2017
     image_path: /assets/images/gallery_thumbnails/NoteDalMonviso2017.jpg
     alt: "Raduno Note dal Monviso 2017 @ Villafranca Piemonte"
