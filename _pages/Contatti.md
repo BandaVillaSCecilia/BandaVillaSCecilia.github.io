@@ -16,7 +16,7 @@ socials:
     alt: "Youtube"
     title: "Youtube"
   - url: http://bit.ly/GPlusBandaVilla
-    image_path: /assets/images/loghi/social/google-plus-new-icon-logo-400x400.png
+    image_path: /assets/images/loghi/social/googlePlus.png
     alt: "Google+"
     title: "Google+"
   - url: http://bit.ly/InstagramBandaVilla
