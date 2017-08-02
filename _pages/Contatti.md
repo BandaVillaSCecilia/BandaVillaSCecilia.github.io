@@ -8,7 +8,7 @@ friends:
     title: "Sagra del Burlagh @ Gignese"
 socials:
   - url: http://bit.ly/FacebookBandaVilla
-    image_path: /assets/images/loghi/social/facebook-logo.png
+    image_path: /assets/images/loghi/social/find-us-on-facebook-badge-400x400.png
     alt: "Facebook"
     title: "Facebook"
   - url: http://bit.ly/YoutubeBandaVilla
