@@ -67,7 +67,7 @@ references:
 
 ## Social Networks
 
-{% include socials %}
+{% include gallery id="socials" %}
 <!-- - **Facebook:** [fb.me/BandaVillafrancaPiemonte](http://bit.ly/FacebookBandaVilla)
 - **Youtube:** [yt.be/BandaVillafrancaPiemonte](http://bit.ly/YoutubeBandaVilla)
 - **Google+:** [g.co/+BandaAutonomaSantaCeciliaVillafrancaPiemonte](http://bit.ly/GPlusBandaVilla)
@@ -87,7 +87,7 @@ references:
   - *Responsabile Corso Allievi:* ODETTI Oscar
 
 ## Riferimenti
-{% include references %}
+{% include gallery id="references" %}
 <!-- - [Comune di Villafranca Piemonte](http://www.comune.villafrancapiemonte.to.it/)
 - [Anbima Torino](http://www.anbima.it/torino)
 - [Anbima Piemonte](http://www.anbima.it/piemonte)
@@ -97,7 +97,7 @@ references:
 
 ## Siti dei nostri amici
 
-<!-- {% include friends %} -->
+<!-- {% include gallery id="friends" %} -->
 
 - [Pinerolo Play](http://www.pineroloplay.it)
 - [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/)
