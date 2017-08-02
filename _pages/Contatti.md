@@ -37,7 +37,7 @@ references:
     alt: "Anbima Torino"
     title: "Anbima Torino"
   - url: http://www.anbima.it/piemonte
-    image_path: /assets/images/loghi/references/anbima piemonte.png
+    image_path: /assets/images/loghi/references/anbima_piemonte.png
     alt: "Anbima Piemonte"
     title: "Anbima Piemonte"
   - url: http://www.anbima.it/
