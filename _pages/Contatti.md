@@ -20,7 +20,7 @@ socials:
     alt: "Google+"
     title: "Google+"
   - url: http://bit.ly/InstagramBandaVilla
-    image_path: /assets/images/loghi/social/instagram-logo-vector-download-400x400.jpg
+    image_path: /assets/images/loghi/social/IG_Glyph_Fill.jpg
     alt: "Instagram"
     title: "Instagram"
   - url: http://bit.ly/SoundcloudBandaVilla
@@ -28,10 +28,10 @@ socials:
     alt: "Soundcloud"
     title: "Soundcloud"
 references:
-  - url: http://www.comune.villafrancapiemonte.to.it/
-    image_path: /assets/images/loghi/references/comuneVilla.png
-    alt: "Comune Villafranca Piemonte"
-    title: "Comune Villafranca Piemonte"
+  - url: http://www.anbima.it/
+    image_path: /assets/images/loghi/references/anbima.jpeg
+    alt: "Anbima Nazionale"
+    title: "Anbima Nazionale"
   - url: http://www.anbima.it/torino
     image_path: /assets/images/loghi/references/anbima-TO.jpg
     alt: "Anbima Torino"
@@ -40,10 +40,10 @@ references:
     image_path: /assets/images/loghi/references/anbima_piemonte.png
     alt: "Anbima Piemonte"
     title: "Anbima Piemonte"
-  - url: http://www.anbima.it/
-    image_path: /assets/images/loghi/references/anbima.jpeg
-    alt: "Anbima Nazionale"
-    title: "Anbima Nazionale"
+  - url: http://www.comune.villafrancapiemonte.to.it/
+    image_path: /assets/images/loghi/references/comuneVilla.png
+    alt: "Comune Villafranca Piemonte"
+    title: "Comune Villafranca Piemonte"
   - url: http://www.mondobande.it/
     image_path: /assets/images/loghi/references/mondobande.jpeg
     alt: "Mondobande.it"
