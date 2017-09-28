@@ -2,6 +2,10 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: http://bit.ly/Pescatori2017
+    image_path: /assets/images/posts/20170923/thumbnail.jpg
+    alt: "Sagra Pescatori 2017 @ Villafranca Piemonte"
+    title: "Sagra Pescatori 2017 @ Villafranca Piemonte"
   - url: http://bit.ly/Gignese2017
     image_path: /assets/images/gallery_thumbnails/gignese2017.jpg
     alt: "Sagra del Burlagh @ Gignese"
