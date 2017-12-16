@@ -13,7 +13,7 @@
       {% else %}
         <!-- <img src="{{ author.avatar | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image"> -->
         <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}" itemprop="image">
-        
+
       {% endif %}
     </div>
   {% endif %}
@@ -201,6 +201,14 @@
         <li>
           <a href="https://soundcloud.com/{{ author.soundcloud }}" itemprop="sameAs">
             <i class="fa fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.telegram %}
+        <li>
+          <a href="{{ author.telegram }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-telegram" aria-hidden="true"></i> Telegram Channel
           </a>
         </li>
       {% endif %}
