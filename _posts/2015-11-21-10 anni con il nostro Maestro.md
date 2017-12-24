@@ -9,6 +9,9 @@ gallery:
     title: "Il Maestro Alessandro che esegue un brano"
 ---
 Durante l'annuale Concerto di Santa Cecilia, quest'anno abbiamo festeggiato il **decimo anniversario** di direzione del nostro Maestro il Prof. Alessandro FACCIN. Un grazie è d'obbligo per la dedizione, la professionalità e la passione profusa in questi anni per la nostra Associazione, con l'obiettivo di farla crescere sotto il profilo musicale. Da parte di tutti i musici, del Direttivo, della nostra Madrina un sentito ringraziamento ed un augurio di festeggiare insieme altri traguardi altrettanto importanti!
-{: .text-justify}  
+{: .text-justify}
 
 {% include gallery %}
+
+Se non l'hai ancora fatto, unisciti al **canale Telegram** [@BandaVillafrancaPiemonte](https://t.me/BandaVillafrancaPiemonte) per rimanere aggiornato sulle ultime novità! Seguiteci sui nostri social, ogni like e condivisione è apprezzata!
+{: .text-justify}

@@ -14,8 +14,8 @@ gallery:
     alt: "Premiazione Lorenzo DOLEATTO e Luca GIACOSA"
     title: "Premiazione Lorenzo DOLEATTO e Luca GIACOSA"
 ---
-In questa giornata di festa per la nostra Associazione abbiamo celebrato un avvenimento che non capita ogni giorno. Durante il nostro concerto *"Note da Film"* per Santa Cecilia abbiamo avuto l'onore di consegnare targhe e pergamene ad alcuni nostri componenti che festeggiano importanti traguardi nella nostra realtà bandistica.  
-{: .text-justify}  
+In questa giornata di festa per la nostra Associazione abbiamo celebrato un avvenimento che non capita ogni giorno. Durante il nostro concerto *"Note da Film"* per Santa Cecilia abbiamo avuto l'onore di consegnare targhe e pergamene ad alcuni nostri componenti che festeggiano importanti traguardi nella nostra realtà bandistica.
+{: .text-justify}
 
 Un augurio quindi ai nostri musici:
 
@@ -24,9 +24,12 @@ Un augurio quindi ai nostri musici:
 - **GIACOSA Luca** per i suoi **25 anni** di servizio nella Banda di Villafranca Piemonte
 - **ROLLE' Andrea** per i suoi **60 anni** di servizio nella Banda di Villafranca Piemonte
 
-{: .text-justify}  
+{: .text-justify}
 
 Che possano continuare a coltivare la loro passione per la musica nella nostra Associazione ancora per molto tempo!
-{: .text-justify}  
+{: .text-justify}
 
 {% include gallery caption="Premiazione dei nostri musici per gli anni di servizio in Banda"%}
+
+Se non l'hai ancora fatto, unisciti al **canale Telegram** [@BandaVillafrancaPiemonte](https://t.me/BandaVillafrancaPiemonte) per rimanere aggiornato sulle ultime novità! Seguiteci sui nostri social, ogni like e condivisione è apprezzata!
+{: .text-justify}

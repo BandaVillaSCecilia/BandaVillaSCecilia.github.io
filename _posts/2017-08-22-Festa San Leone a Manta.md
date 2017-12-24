@@ -1,12 +1,12 @@
 ---
 layout: single
 ---
-Primo servizio dopo la vacanza estiva per la nostra Banda musicale! Parteciperemo alla Festa patronale di San Leone Magno nella bellissima Manta, domenica 27 Agosto. La sfilata inizierà alle ore 14 e occuperà buona parte del pomeriggio!  
-{: .text-justify}  
+Primo servizio dopo la vacanza estiva per la nostra Banda musicale! Parteciperemo alla Festa patronale di San Leone Magno nella bellissima Manta, domenica 27 Agosto. La sfilata inizierà alle ore 14 e occuperà buona parte del pomeriggio!
+{: .text-justify}
 
-Di seguito potete trovare tutti i dettagli.  
-Partecipate numerosi!  
-{: .text-justify}  
+Di seguito potete trovare tutti i dettagli.
+Partecipate numerosi!
+{: .text-justify}
 
 ## Mappa
 
@@ -36,3 +36,7 @@ Partecipate numerosi!
 - Articolo di TargatoCN [disponibile qui](http://www.targatocn.it/2017/08/22/sommario/cuneo-e-valli/leggi-notizia/argomenti/eventi/articolo/al-via-a-manta-i-festeggiamenti-patronali-per-san-leone-magno.html)
 - Tweet del Comune di Manta [disponibile qui](https://twitter.com/ComunediManta/status/894324982209286144)
 - Articolo sul sito del Comune di Manta [disponibile qui](http://www.comune.manta.cn.it/archivio/news/Manifestazioni-in-occasione-della-Festa-Patronale-di-San-Leone-Magno_821.asp)
+
+
+Se non l'hai ancora fatto, unisciti al **canale Telegram** [@BandaVillafrancaPiemonte](https://t.me/BandaVillafrancaPiemonte) per rimanere aggiornato sulle ultime novità! Seguiteci sui nostri social, ogni like e condivisione è apprezzata!
+{: .text-justify}

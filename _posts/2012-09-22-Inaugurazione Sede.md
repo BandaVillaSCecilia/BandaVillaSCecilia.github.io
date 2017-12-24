@@ -14,8 +14,11 @@ gallery:
     alt: "L'Eco del Chisone"
     title: "L'Eco del Chisone"
 ---
-{% include figure image_path="/assets/images/posts/20120922/Pubblicazione1a.jpg" alt="Pubblicazione inaugurazione sede" %}  
+{% include figure image_path="/assets/images/posts/20120922/Pubblicazione1a.jpg" alt="Pubblicazione inaugurazione sede" %}
 
 ### Copertura giornalistica
 
 {% include gallery caption="Copertura giornalistica" %}
+
+Se non l'hai ancora fatto, unisciti al **canale Telegram** [@BandaVillafrancaPiemonte](https://t.me/BandaVillafrancaPiemonte) per rimanere aggiornato sulle ultime novità! Seguiteci sui nostri social, ogni like e condivisione è apprezzata!
+{: .text-justify}

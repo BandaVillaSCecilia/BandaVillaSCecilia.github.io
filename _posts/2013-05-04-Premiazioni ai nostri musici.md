@@ -17,3 +17,6 @@ gallery:
 Tanti auguri ai nostri musici **OSELLA Laura**, **MEGLIA Fabrizio** e **PATRINI Giacomo** che sabato 04 Maggio sono stati premiati per i loro anni di servizio nelle Bande Musicali.
 
 {% include gallery caption="I diploni conferiti" %}
+
+Se non l'hai ancora fatto, unisciti al **canale Telegram** [@BandaVillafrancaPiemonte](https://t.me/BandaVillafrancaPiemonte) per rimanere aggiornato sulle ultime novità! Seguiteci sui nostri social, ogni like e condivisione è apprezzata!
+{: .text-justify}

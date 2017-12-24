@@ -1,8 +1,8 @@
 ---
 layout: single
 ---
-Domenica 30/07 ultimo appuntamento per la nostra Banda Musicale prima delle meritate vacanze estive! Si tratta di una giornata di musica che passeremo suonando alla Sagra del Burlagh a Gignese (VCO). Al pomeriggio ci rilasseremo visitando la città di Stresa che dista pochi minuti da Gignese.  
-{: .text-justify}  
+Domenica 30/07 ultimo appuntamento per la nostra Banda Musicale prima delle meritate vacanze estive! Si tratta di una giornata di musica che passeremo suonando alla Sagra del Burlagh a Gignese (VCO). Al pomeriggio ci rilasseremo visitando la città di Stresa che dista pochi minuti da Gignese.
+{: .text-justify}
 
 <style>
 .map-responsive{
@@ -37,3 +37,6 @@ Domenica 30/07 ultimo appuntamento per la nostra Banda Musicale prima delle meri
 <div class="map-responsive">
 <iframe src="https://www.google.com/maps/d/embed?mid=1wday_kMbt4I_fHYZ9q2A0lET1tk" width="640" height="480"></iframe>
 </div>
+
+Se non l'hai ancora fatto, unisciti al **canale Telegram** [@BandaVillafrancaPiemonte](https://t.me/BandaVillafrancaPiemonte) per rimanere aggiornato sulle ultime novità! Seguiteci sui nostri social, ogni like e condivisione è apprezzata!
+{: .text-justify}
