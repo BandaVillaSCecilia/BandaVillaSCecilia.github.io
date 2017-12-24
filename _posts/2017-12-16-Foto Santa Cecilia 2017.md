@@ -15,3 +15,6 @@ Qui sotto potete trovare un album di fotografie che ritraggono perfettamente la 
 Cliccando sulla fotografia sarete reinderizzati all'album fotografico.
 
 {% include gallery caption="Santa Cecilia 2017 @ Villafranca Piemonte" %}
+
+Se non l'hai ancora fatto, unisciti al **canale Telegram** [@BandaVillafrancaPiemonte](https://t.me/BandaVillafrancaPiemonte) per rimanere aggiornato sulle ultime novità! Seguiteci sui nostri social, ogni like e condivisione è apprezzata!
+{: .text-justify}
