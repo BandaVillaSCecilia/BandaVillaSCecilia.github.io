@@ -27,6 +27,10 @@ socials:
     image_path: /assets/images/loghi/social/soundcloud.png
     alt: "Soundcloud"
     title: "Soundcloud"
+  - url: http://bit.ly/TelegramBandaVilla
+    image_path: /assets/images/loghi/social/telegram.png
+    alt: "Telegram"
+    title: "Telegram"
 references:
   - url: http://www.anbima.it/
     image_path: /assets/images/loghi/references/anbima.jpeg
