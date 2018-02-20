@@ -13,27 +13,31 @@ Il programma, che è patrocinato dal Comune e gode della collaborazione della Pr
 La partecipazione al raduno è gratuita.
 {: .text-justify}
 
-### PRANZO E ISCRIZIONE
+### PRANZO
  
-**Il pranzo** (due antipasti, primo, secondo con contorno, dolce, acqua+bevanda) prevede invece una quota di **€15,00** per i musici in Vespa e di **€20,00** per i Vespisti senza strumento al seguito e necessita di una pre-iscrizione con anticipo di parte della quota prevista, per garantire un migliore servizio. 
-{: .text-justify}
- 
-Per la pre-iscrizione al pranzo ti  preghiamo  di compilare il seguente modulo con i tuoi dati:
- 
-- Modulo iscrizione:    [bit.ly/RadunoBandistiInVespa2018](http://bit.ly/RadunoBandistiInVespa2018)
+**Il pranzo** prevede due antipasti, primo, secondo con contorno, dolce, acqua o altra bevanda. Ricordiamo che l'iscrizione al raduno è gratuita, si richiede solo un contributo in caso di partecipazione al pranzo. Il costo totale è di **€15 per i musici in Vespa** e di **€20 per i vespisti senza strumento** al seguito. 
 
-ed effettuare un pagamento di **€ 10 (a persona)** tramite uno dei seguenti metodi:
+Al fine di organizzare al meglio il servizio di catering, richiediamo un **anticipo di €10 al momento della prenotazione**, mentre il restante ammontare verrà saldato il giorno stesso.
+{: .text-justify}
+
+### ISCRIZIONE
+
+La pre-iscrizione termina il giorno **Venerdì 20 Aprile 2018**, pertanto affrettati!  
+Iscriviti subito compilando il modulo che troverai al link [bit.ly/RadunoBandistiInVespa2018](http://bit.ly/RadunoBandistiInVespa2018), oppure contattaci al numero [333 954 8866](tel:+393339548866) o scrivici a [eventi@bandavillafrancapiemonte.it](mailto:eventi@bandavillafrancapiemonte.it) per avere maggiori informazioni!
+{: .text-justify}
+
+Compilando il modulo di iscrizione ti verrà richiesto il pagamento della quota per il pranzo in caso tu lo abbia scelto. Le modalità di pagamento sono:
+{: .text-justify}
 
 - PayPal:  [paypal.me/BandaVillafrancaPte/10](http://paypal.me/BandaVillafrancaPte/10)
-- Bonifico Bancario: IBAN:    *IT 52 C 02008 31150 000105123158*    causale:  *"Prescrizione raduno Bandisti In Vespa - Nome Cognome"*
-
-La pre-iscrizione termina il giorno **Venerdì 20 Aprile 2018**, pertanto affrettati!
-{: .text-justify}
-Per qualsiasi dubbio o richiesta di informazioni,  contattaci al numero [333 954 8866](tel:+393339548866) oppure scrivici a [eventi@bandavillafrancapiemonte.it](mailto:eventi@bandavillafrancapiemonte.it)
+- Bonifico Bancario: 
+    - IBAN: *IT 52 C 02008 31150 000105123158* 
+    - Causale:  *Prescrizione raduno Bandisti In Vespa - Nome Cognome*
+    
  
 **Ti preghiamo di diffondere la notizia a tutti i circoli e Vespa club della tua zona che ritieni possano essere interessati, nonché a tutti i musici Vespa-muniti di tua conoscenza.**
  
-Lucida lo strumento e scendi in garage a preparare il tuo bolide, TI ASPETTIAMO!!!
+Lucida lo strumento e scendi in garage a preparare il tuo bolide, **TI ASPETTIAMO!!!**
 
 
 ### LUOGO
