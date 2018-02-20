@@ -20,22 +20,21 @@ La partecipazione al raduno è gratuita.
  
 Per la pre-iscrizione al pranzo ti  preghiamo  di compilare il seguente modulo con i tuoi dati:
  
-- Modulo iscrizione:    http://bit.ly/RadunoBandistiInVespa2018
+- Modulo iscrizione:    [bit.ly/RadunoBandistiInVespa2018](http://bit.ly/RadunoBandistiInVespa2018)
 
 ed effettuare un pagamento di **€ 10 (a persona)** tramite uno dei seguenti metodi:
 
-- PayPal:  paypal.me/BandaVillafrancaPte/10
-- Bonifico Bancario: IBAN:    IT 52 C 02008 31150 000105123158    causale:  "Prescrizione raduno Bandisti In Vespa - Nome Cognome"
+- PayPal:  [paypal.me/BandaVillafrancaPte/10](paypal.me/BandaVillafrancaPte/10)
+- Bonifico Bancario: IBAN:    *IT 52 C 02008 31150 000105123158*    causale:  *"Prescrizione raduno Bandisti In Vespa - Nome Cognome"*
 
 La pre-iscrizione termina il giorno **Venerdì 20 Aprile 2018**, pertanto affrettati!
 {: .text-justify}
-Per qualsiasi dubbio o richiesta di informazioni,  contattaci al numero (333 954 8866)[tel:+393339548866] oppure scrivici a (eventi@bandavillafrancapiemonte.it)[mailto:eventi@bandavillafrancapiemonte.it]
+Per qualsiasi dubbio o richiesta di informazioni,  contattaci al numero [333 954 8866](tel:+393339548866) oppure scrivici a [eventi@bandavillafrancapiemonte.it](mailto:eventi@bandavillafrancapiemonte.it)
  
 **Ti preghiamo di diffondere la notizia a tutti i circoli e Vespa club della tua zona che ritieni possano essere interessati, nonché a tutti i musici Vespa-muniti di tua conoscenza.**
  
 Lucida lo strumento e scendi in garage a preparare il tuo bolide, TI ASPETTIAMO!!!
 
-<!-- {% include figure image_path="/assets/images/posts/20171224/buonnatale.jpg" alt="Raduno Bandisti in Vespa" caption="Raduno Bandisti in Vespa" %} -->
 
 ### LUOGO
 
