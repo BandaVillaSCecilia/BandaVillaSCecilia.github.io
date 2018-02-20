@@ -24,7 +24,7 @@ Per la pre-iscrizione al pranzo ti  preghiamo  di compilare il seguente modulo c
 
 ed effettuare un pagamento di **€ 10 (a persona)** tramite uno dei seguenti metodi:
 
-- PayPal:  [paypal.me/BandaVillafrancaPte/10](paypal.me/BandaVillafrancaPte/10)
+- PayPal:  [paypal.me/BandaVillafrancaPte/10](http://paypal.me/BandaVillafrancaPte/10)
 - Bonifico Bancario: IBAN:    *IT 52 C 02008 31150 000105123158*    causale:  *"Prescrizione raduno Bandisti In Vespa - Nome Cognome"*
 
 La pre-iscrizione termina il giorno **Venerdì 20 Aprile 2018**, pertanto affrettati!
