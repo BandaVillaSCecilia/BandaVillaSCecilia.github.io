@@ -63,6 +63,10 @@ Lucida lo strumento e scendi in garage a preparare il tuo bolide, **TI ASPETTIAM
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.8850001504125!2d7.4935006154538!3d44.78314978664775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xee5fd81673680da7!2sPalazzetto+polivalente!5e0!3m2!1sen!2sde!4v1518989360533" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
+## VOLANTINO
+
+{% include figure image_path="/assets/images/posts/20180220/raduno_volantino.png" alt="Volantino" caption="Volantino" %}
+
 ---
 
 Se non l'hai ancora fatto, unisciti al **canale Telegram** [@BandaVillafrancaPiemonte](https://t.me/BandaVillafrancaPiemonte) per rimanere aggiornato sulle ultime novità! Seguiteci sui nostri social, ogni like e condivisione è apprezzata!
