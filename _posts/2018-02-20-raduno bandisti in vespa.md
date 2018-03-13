@@ -16,6 +16,7 @@ La partecipazione al raduno è gratuita.
 ## PRANZO
  
 **Il pranzo** prevede due antipasti, primo, secondo con contorno, dolce, acqua o altra bevanda. Ricordiamo che l'iscrizione al raduno è gratuita, si richiede solo un contributo in caso di partecipazione al pranzo. Il costo totale è di **€15 per i musici in Vespa** e di **€20 per i vespisti senza strumento** al seguito. 
+{: .text-justify}
 
 Al fine di organizzare al meglio il servizio di catering, richiediamo un **anticipo di €10 al momento della prenotazione**, mentre il restante ammontare verrà saldato il giorno stesso.
 {: .text-justify}
@@ -66,6 +67,8 @@ Lucida lo strumento e scendi in garage a preparare il tuo bolide, **TI ASPETTIAM
 ## VOLANTINO
 
 {% include figure image_path="/assets/images/posts/20180220/raduno_volantino.png" alt="Volantino" caption="Volantino" %}
+
+Puoi scaricare il volantino completo [qui.](http://bit.ly/VolantinoBandistiInVespa2018)
 
 ---
 
