@@ -23,7 +23,7 @@ Al fine di organizzare al meglio il servizio di catering, richiediamo un **antic
 
 ## ISCRIZIONE
 
-La pre-iscrizione termina il giorno **Giovedì 10 Maggio 2018**, pertanto affrettati!  
+La pre-iscrizione termina il giorno **Sabato 19 Maggio 2018**, pertanto affrettati!  
 Iscriviti subito compilando il modulo che troverai al link [bit.ly/RadunoBandistiInVespa2018](http://bit.ly/RadunoBandistiInVespa2018), oppure contattaci al numero [333 954 8866](tel:+393339548866) o scrivici a [eventi@bandavillafrancapiemonte.it](mailto:eventi@bandavillafrancapiemonte.it) per avere maggiori informazioni!
 {: .text-justify}
 
