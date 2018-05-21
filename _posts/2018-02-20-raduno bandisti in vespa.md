@@ -1,6 +1,13 @@
 ---
 layout: single
 ---
+
+# AVVISO
+
+**Il raduno è posticipato a data da destinarsi. Vi terremo aggiornati sull'evento Facebook e sul nostro sito con un nuovo post.**
+
+---
+
 La Banda Musicale S. Cecilia organizza il primo **BANDISTI in VESPA**, il raduno di Vespe per musici. Se suoni uno strumento musicale e ti piacciono le due ruote non puoi mancare! 
 {: .text-justify}
  
