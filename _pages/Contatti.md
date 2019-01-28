@@ -80,15 +80,15 @@ references:
 
 ## Direttivo & Cariche
 - **Maestro:** Prof. FACCIN Alessandro
-- **Presidente:** GALLO Federica
+- **Presidente:** DOLEATTO Lorenzo
 - **Capitana Majorettes:** BRUNO Isabella
-- **Vicepresidente:** DOLEATTO Lorenzo
-- **Tesoriere:** BARBERO Federico
+- **Vicepresidente:** GALLO Federica
+- **Tesoriere:** ODETTI Oscar
 - **Segretario:** PONZIO Carla
 - **Consiglieri**
-  - *Responsabile Divise:* GIACOSA Luca
+  - *Responsabile Divise e Allievi:* BARBERO Federico
   - *Responsabile Archivio:* ROLLE' Andrea
-  - *Responsabile Corso Allievi:* ODETTI Oscar
+  - *Responsabile Comunicazion:* NICOLA Alessia
 
 ## Riferimenti
 {% include gallery id="references" %}
