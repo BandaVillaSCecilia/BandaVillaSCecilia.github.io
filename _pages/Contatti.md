@@ -101,8 +101,6 @@ references:
 
 ## Siti dei nostri amici
 
-<!-- {% include gallery id="friends" %} -->
-
 - [Pinerolo Play](http://www.pineroloplay.it)
 - [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/)
 - [Congedati della Fanfara Brigata Alpina Taurinense](http://www.congedatifanfarataurinense.it/)
