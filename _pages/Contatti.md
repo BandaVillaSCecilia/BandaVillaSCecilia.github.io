@@ -1,11 +1,6 @@
 ---
 layout: single
 permalink: /contatti/
-friends:
-  - url: http://bit.ly/Gignese2017
-    image_path: /assets/images/gallery_thumbnails/gignese2017.jpg
-    alt: "Sagra del Burlagh @ Gignese"
-    title: "Sagra del Burlagh @ Gignese"
 socials:
   - url: http://bit.ly/FacebookBandaVilla
     image_path: /assets/images/loghi/social/find-us-on-facebook-badge-400x400.png
@@ -15,11 +10,7 @@ socials:
     image_path: /assets/images/loghi/social/youtube-eps-vector-logo-400x400.png
     alt: "Youtube"
     title: "Youtube"
-  - url: http://bit.ly/GPlusBandaVilla
-    image_path: /assets/images/loghi/social/googlePlus.png
-    alt: "Google+"
-    title: "Google+"
-  - url: http://bit.ly/InstagramBandaVilla
+  - url: http://bit.ly/InstagramBandaVillafranca
     image_path: /assets/images/loghi/social/IG_Glyph_Fill.jpg
     alt: "Instagram"
     title: "Instagram"
@@ -85,10 +76,10 @@ references:
 - **Vicepresidente:** GALLO Federica
 - **Tesoriere:** ODETTI Oscar
 - **Segretario:** PONZIO Carla
-- **Consiglieri**
+- **Consiglieri:**
   - *Responsabile Divise e Allievi:* BARBERO Federico
   - *Responsabile Archivio:* ROLLE' Andrea
-  - *Responsabile Comunicazion:* NICOLA Alessia
+  - *Responsabile Comunicazione:* NICOLA Alessia
 
 ## Riferimenti
 {% include gallery id="references" %}
