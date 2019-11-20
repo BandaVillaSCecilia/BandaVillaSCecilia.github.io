@@ -2,6 +2,10 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: http://bit.ly/FantaPo2019
+    image_path: /assets/images/posts/20190629/FantaPo2019.jpg
+    alt: "Fanta Po 2019 @ Villafranca Piemonte"
+    title: "Fanta Po 2019 @ Villafranca Piemonte"
   - url: http://bit.ly/Pescatori2017
     image_path: /assets/images/posts/20170923/thumbnail.jpg
     alt: "Sagra Pescatori 2017 @ Villafranca Piemonte"
