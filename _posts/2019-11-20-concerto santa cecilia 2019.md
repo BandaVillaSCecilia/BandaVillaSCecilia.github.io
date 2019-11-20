@@ -7,7 +7,7 @@ layout: single
 La Banda Musicale S. Cecilia organizza il consueto concerto di Santa Cecilia! L'appuntamento è fissato per Sabato 30 Novembre 2019 alle ore 21:00 presso la palestra delle scuole medie in Via Stefano Grande 24 a Villafranca Piemonte.
 {: .text-justify}
 
-Il concerto sarà incentrato sul mondo dei cartoni animati, che tutti noi conosciamo e abbiamo amato! Dal ladro gentiluomo Lupin alle fantastiche ambientazioni Disney, vi promettiamo di farvi tornare bambini per una sera! Divertimento assicurato per grandi e piccini, al ritmo di musica e con le coreografie delle nostre Majorettes! L'ingresso al concerto è gratuito.
+Il concerto coprirà un repertorio vasto, dalla cultura pop con le soundtrack di popolari serie TV come Game of Thrones, ai grandi classici del rock, fino alla musica classica con una famosa cantata scenica. Divertimento assicurato per grandi e piccini, al ritmo di musica e con le coreografie delle nostre Majorettes! L'ingresso al concerto è gratuito.
 {: .text-justify}
 
 Domenica 01 Dicembre 2019 ricorderemo i defunti dell'associazione nella Santa messa che si svolgerà alle ore 11:00. Successivamente festeggeremo l'anno di musica con il nostro pranzo sociale aperto a tutti i simpatizzanti, presso il Ristorante Valle Bronda (Via Saluzzo 13 - Pagno CN). L'iscrizione è aperta, trovate i dettagli nel volantino qui sotto! Vi aspettiamo numerosi!
