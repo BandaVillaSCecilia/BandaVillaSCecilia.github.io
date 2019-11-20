@@ -19,7 +19,7 @@ Come di consueto, nella sezione [galleria](/galleria) sono presenti alcune foto 
 Cliccando sulla fotografia sarete reinderizzati all'album fotografico.
 {: .text-justify}
 
-{% include gallery caption="Raduno Bande del Monviso @ Villafranca Piemonte" %}
+{% include gallery caption="Sagra Pescatori 2019 @ Villafranca Piemonte" %}
 
 Se non l'hai ancora fatto, unisciti al **canale Telegram** [@BandaVillafrancaPiemonte](https://t.me/BandaVillafrancaPiemonte) per rimanere aggiornato sulle ultime novità! Seguiteci sui nostri social, ogni like e condivisione è apprezzata!
 {: .text-justify}
