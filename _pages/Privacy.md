@@ -1,15 +1,20 @@
-# Regolamento generale sulla protezione dei dati (GDPR)
+---
+layout: single
+permalink: /privacy/
+---
+
+## Regolamento generale sulla protezione dei dati (GDPR)
  
 
-## Informativa ai sensi del Regolamento UE 2016/679 (“GDPR”)
-
 ### Informativa ai sensi del Regolamento UE 2016/679 (“GDPR”)
+
+#### Informativa ai sensi del Regolamento UE 2016/679 (“GDPR”)
 
 In ottemperanza degli obblighi derivanti dalla normativa nazionale (D. Lgs 30 giugno 2003 n. 196, Codice in materia di protezione dei dati personali) e comunitaria, (Regolamento europeo per la protezione dei dati personali n. 679/2016, di seguito “GDPR”) e successive modifiche, la gestione delle newsletter ed il presente sito rispettano e tutelano la riservatezza dei visitatori e degli utenti, ponendo in essere ogni sforzo possibile e proporzionato per non ledere i diritti.
 
  
 
-## TIPI DI DATI RACCOLTI
+### TIPI DI DATI RACCOLTI
 
 Utilizzando il nostro sito, o aderendo al servizio Newsletter (qualora messo a disposizione), accetti che il www.bandavilladitirano.it raccolga alcuni tuoi dati personali. Questa pagina ha lo scopo definire quali dati vengono raccolti, perché e come vengono usati.
 
@@ -21,13 +26,13 @@ Si trattano due tipi di dati:
 
  
 
-### Dati forniti dall'utente (dati comuni identificativi)
+#### Dati forniti dall'utente (dati comuni identificativi)
 
 Si tratta di dati forniti esplicitamente dall’utente, ad es. nome, cognome, password, email, e servono per poter usufruire delle funzionalità riservate a utenti registrati (ad es. forum, newsletter, preferenze sito).
 
  
 
-### Dati raccolti automaticamente
+#### Dati raccolti automaticamente
 
 • dati tecnici di navigazione relativi all'indirizzo IP, gli indirizzi in notazione URI (Uniform Resource Identifier), i codici identificativi dei dispositivi utilizzati dall’utente per la fruizione del sito o dei servizi, le caratteristiche del browser e agli orari di accesso;
 
@@ -113,7 +118,7 @@ E’ possibile che la presente Informativa sulla Privacy venga periodicamente ag
 
  
 
-## Cookie
+### Cookie
 
 1. COOKIE
 
@@ -187,7 +192,7 @@ Per ottenere informazioni complete raccomandiamo di consultare le privacy policy
 
  
 
-## Link a privacy Policy servizi terzi
+### Link a privacy Policy servizi terzi
 
  
 
