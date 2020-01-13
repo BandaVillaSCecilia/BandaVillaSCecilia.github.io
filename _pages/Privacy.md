@@ -8,13 +8,10 @@ permalink: /privacy/
 
 ### Informativa ai sensi del Regolamento UE 2016/679 (“GDPR”)
 
-#### Informativa ai sensi del Regolamento UE 2016/679 (“GDPR”)
-
 In ottemperanza degli obblighi derivanti dalla normativa nazionale (D. Lgs 30 giugno 2003 n. 196, Codice in materia di protezione dei dati personali) e comunitaria, (Regolamento europeo per la protezione dei dati personali n. 679/2016, di seguito “GDPR”) e successive modifiche, la gestione delle newsletter ed il presente sito rispettano e tutelano la riservatezza dei visitatori e degli utenti, ponendo in essere ogni sforzo possibile e proporzionato per non ledere i diritti.
+{: .text-justify}  
 
- 
-
-### TIPI DI DATI RACCOLTI
+## TIPI DI DATI RACCOLTI
 
 Utilizzando il nostro sito, o aderendo al servizio Newsletter (qualora messo a disposizione), accetti che il www.bandavilladitirano.it raccolga alcuni tuoi dati personali. Questa pagina ha lo scopo definire quali dati vengono raccolti, perché e come vengono usati.
 
@@ -23,23 +20,21 @@ Si trattano due tipi di dati:
 - dati forniti dall’utente
 
 - dati raccolti automaticamente
+{: .text-justify}  
 
- 
-
-#### Dati forniti dall'utente (dati comuni identificativi)
+### Dati forniti dall'utente (dati comuni identificativi)
 
 Si tratta di dati forniti esplicitamente dall’utente, ad es. nome, cognome, password, email, e servono per poter usufruire delle funzionalità riservate a utenti registrati (ad es. forum, newsletter, preferenze sito).
+{: .text-justify}
 
- 
-
-#### Dati raccolti automaticamente
+### Dati raccolti automaticamente
 
 • dati tecnici di navigazione relativi all'indirizzo IP, gli indirizzi in notazione URI (Uniform Resource Identifier), i codici identificativi dei dispositivi utilizzati dall’utente per la fruizione del sito o dei servizi, le caratteristiche del browser e agli orari di accesso;
 
 • dati di navigazione finalizzati alla profilazione forniti indirettamente mediante la fruizione stessa del servizio e ottenuti e analizzati previo consenso dell'utente;
 
 Si tratta di dati personali la cui trasmissione è implicita nell’uso dei protocolli di comunicazione di Internet. Tali informazioni non sono raccolte per essere associate a interessati identificati, ma che potrebbero, attraverso elaborazioni ed associazioni con dati detenuti da terzi, permettere di identificare gli utenti.
- 
+{: .text-justify}   
 
 1. UTILIZZO DEI DATI RACCOLTI
 
@@ -56,13 +51,12 @@ I dati raccolti sono utilizzati per il funzionamento e l’amministrazione tecni
  Tali trattamenti sono necessari per erogare correttamente le funzionalità del sito nei confronti degli utenti che vi aderiscono.
 
 I dati di raccolti automaticamente possono essere utilizzati per ricavare informazioni statistiche anonime sull’uso del sito e per controllarne il corretto funzionamento, inoltre essi potrebbero essere utilizzati in caso di necessità o su richiesta delle autorità e delle forze di polizia o per l’accertamento di responsabilità in caso di ipotetici reati informatici ai danni del sito.
- 
+{: .text-justify}
 
 2. MODALITA‘ DEL CONFERIMENTO DEI DATI
 
 Il conferimento dei dati personali è obbligatorio esclusivamente per i trattamenti necessari all’erogazione dei citati servizi riservati agli utenti registrati. (L’eventuale rifiuto per finalità di erogazione del servizio rende impossibile l’utilizzo del servizio stesso). Qualora tu decida di registrarti al sito ovvero di iscriverti alla newsletter ovvero di richiedere delle informazioni a www.bandavilladitirano.it, ti verrà richiesto di compilare un modulo e di fornire dati personali. In tal caso ti verrà sempre fornita l'informativa ai sensi dell'art. 13 del GDPR relativa al trattamento dei dati personali.
-
- 
+{: .text-justify} 
 
 3. SOGGETTI DEL TRATTAMENTO
 
@@ -81,12 +75,9 @@ Non cediamo o vendiamo dati personali a soggetti terzi.
 Qualora tu, utilizzando i plugin e/o bottoni per i social network presenti sul sito, decida di condividere alcuni contenuti del sito, i tuoi dati potranno essere visibili da altri utenti di Facebook e/o Twitter e/o Google+ e/o Pinterest e potranno essere trasferiti dagli stessi social network fuori dall’Unione Europea, negli Stati Uniti d’America.
 
 La raccolta e l'uso delle informazioni ottenute a mezzo del plugin sono regolati dalle rispettive informative privacy dei social network, alle quali si prega di fare riferimento, poiché l’impiego delle suddette tecnologie di interazione con i Social network è regolato dalle informative sulla privacy di dette società e non dall’informativa privacy www.bandavilladitirano.it. Nell’apposita sezione della presente pagina sono elencati per tua comodità i link alle privacy policy delle terze parti.
-
- 
+{: .text-justify}
 
 4. RICHIESTA INFORMAZIONI SUI DATI, MODIFICA O CANCELLAZIONE
-
- 
 
 Qualsiasi persona fisica che utilizzi il nostro sito può:
 
@@ -99,26 +90,21 @@ Qualsiasi persona fisica che utilizzi il nostro sito può:
 - ricevere i propri dati personali, forniti consapevolmente ed attivamente o attraverso la fruizione del servizio, in un formato strutturato, di uso comune e leggibile da dispositivo automatico, e di trasmetterli ad un altro titolare del trattamento senza impedimenti
 
 - proporre reclamo presso l’Autorità Garante per la protezione dei dati personali in Italia. Ti ricordiamo che per qualsiasi domanda o richiesta relativa ai tuoi dati personali e al rispetto della tua privacy puoi contattare il Titolare mediante i canali di contatto indicati al punto 3.
-
- 
+{: .text-justify}
 
 5. DURATA DEL TRATTAMENTO
 
 La conservazione dei tuoi dati personali avverrà in forma elettronica/informatica e per il tempo strettamente necessario al soddisfacimento delle finalità di cui alpunto 1, nel rispetto della tua privacy e delle normative vigenti.
 
 I dati di iscrizione necessari alla fruizione delle aree riservate agli associati verranno conservati fino a che gli stessi resteranno iscritti e verranno cancellati entro 1 mese dal recesso dall’associazione. I dati forniti forniti per l’iscrizione al servizio newsletter saranno conservati esclusivamente per il periodo in cui lo stesso sarà attivo, o fino a richiesta di disiscrizione da parte dell’iscritto.
-
- 
+{: .text-justify}
 
 6. AGGIORNAMENTO DELLA PRESENTE INFORMATIVA PRIVACY
 
 E’ possibile che la presente Informativa sulla Privacy venga periodicamente aggiornata e modificata. Si consiglia pertanto di controllare regolarmente l’apposita sezione del Sito per verificare l’introduzione di eventuali modifiche.
+{: .text-justify}
 
- 
-
- 
-
-### Cookie
+## Cookie
 
 1. COOKIE
 
@@ -131,22 +117,16 @@ I cookie installati dal server web sul quale si sta navigando sono detti “cook
 I cookie utilizzati dal sito web www.bandavilladitirano.it sono utilizzati per diverse finalità come meglio specificato al punto 2 di questa sezione dell'informativa.
 
 Di seguito troverai tutte le informazioni sui cookie installati attraverso il sito www.bandavilladitirano.it e/o relative applicazioni e le indicazioni necessarie su come gestire le tue preferenze riguardo ad essi.
-
- 
+{: .text-justify}
 
 2. COOKIE UTILIZZATI DAL SITO www.bandavilladitirano.it
 
- 
-
 2.1. Cookie “di prima parte” e relative finalità
-
- 
 
 Le finalità principali dei cookie “di prima parte" installati dal sito web www.bandavilladitirano.it sono tecniche e di gestione della sessione. I cookie tecnici vengono utilizzati per finalità connesse all’erogazione del servizio e per consentire o migliorare la navigazione sul sito e sono indispensabili per garantirne il corretto funzionamento.  
 
 I cookie di sessione vengono installati nel caso di utilizzo dei servizi riservati a singoli utenti. Questi cookie di sessione sono utilizzati dal sito per poter distinguere tra gli utenti collegati, ed evitano che una funzionalità richiesta possa essere fornita all'utente sbagliato. I cookie di sessione non contengono dati personali e vengono cancellati al termine della sessione o alla chiusura del browser.
-
- 
+{: .text-justify}
 
 2.2. Cookie “di terza parte” e relative finalità
 
@@ -159,22 +139,16 @@ Il sito www.bandavilladitirano.it contiene anche plugin e/o bottoni per i social
 La raccolta e l'uso delle informazioni ottenute a mezzo del plugin sono regolati dalle rispettive informative privacy dei social network, alle quali si prega di fare riferimento, poiché l’impiego delle suddette tecnologie di interazione con i Social network è regolato dalle informative sulla privacy di dette società e non dall’informativa privacy www.bandavilladitirano.it. Nell’apposita sezione della presente pagina sono elencati per tua comodità i link alle privacy policy delle terze parti.
 
 I Social network i cui plugin sono presenti sul sito sono: Facebook, Twitter, Googleplus, Pinterest.
-
- 
+{: .text-justify}
 
 3. CONSENSO ALL’UTILIZZO DEI COOKIE
-
- 
 
 Tutti i cookie tecnici e di sessione, cioè i cookie strettamente necessari al funzionamento del sito, non richiedono consenso, pertanto vengono installati automaticamente a seguito dell’accesso al sito o al servizio.
 
 Ai sensi della direttiva 2009/136/CE, recepita dal D.Lgs. 28 maggio 2012 n. 69, e del provvedimento del Garante per la protezione dei dati personali relativo all’"Individuazione delle modalità semplificate per l’informativa e l’acquisizione del consenso per l’uso dei cookies” dell’8 maggio 2014, pubblicato sulla Gazzetta Ufficiale n. 126 del 3 giugno 2014, essendo i cookies tecnici essenziali per il corretto funzionamento di un sito web possono essere utilizzati anche senza il preventivo consenso dell’utente, fermo restando l’obbligo di informativa.
-
- 
+{: .text-justify}
 
 4. REVOCA DEL CONSENSO ALL’UTILIZZO DEI COOKIE
-
- 
 
 In aggiunta a quanto indicato in questo documento, l’Utente può gestire le preferenze relative ai Cookie direttamente all’interno del proprio browser ed impedire, ad esempio, che terze parti possano installarne.
 
@@ -189,12 +163,9 @@ Puoi trovare informazioni su come gestire i Cookie nel tuo browser direttamente 
 Dal momento che l’installazione di Cookie e di altri sistemi di tracciamento operata da terze parti tramite i servizi utilizzati all’interno di questa Applicazione non può essere tecnicamente controllata dal Titolare, ogni riferimento specifico a Cookie e sistemi di tracciamento installati da terze parti è da considerarsi indicativo.
 
 Per ottenere informazioni complete raccomandiamo di consultare le privacy policy degli eventuali servizi terzi elencati in questo documento. Nell’apposita sezione della presente pagina sono elencati per tua comodità i link alle privacy policy delle terze parti.
+{: .text-justify}
 
- 
-
-### Link a privacy Policy servizi terzi
-
- 
+## Link a privacy Policy servizi terzi
 
 1. PLUGIN PER I SOCIAL NETWORK
 
@@ -219,8 +190,6 @@ Utilizziamo dei plugin del social network Twitter gestito da Twitter Internation
 
 https://twitter.com/privacy?lang=it
 
- 
-
 GooglePlus
 
 Utilizziamo dei plugin del social network Google+ gestito da Google. Al seguente link trovi la dichiarazione sulla tutela dei dati di Google.
@@ -232,12 +201,9 @@ Pinterest
 Utilizziamo dei plugin del social network Pinterest gestito da Pinterest. Al seguente link trovi la dichiarazione sulla tutela dei dati di Pinterest.
 
 https://policy.pinterest.com/it/privacy-policy
-
- 
+{: .text-justify}
 
 2. GOOGLE ANALYTICS
-
- 
 
 Il sito www.bandavilladitirano.it fa uso di Google analytics con finalità analitiche e statistiche. (vedasi paragrafo 2.2 della sezione “Cookie”di questa pagina.
 
@@ -250,3 +216,4 @@ pagina: https://developers.google.com/analytics/devguides/collection/analyticsjs
 L'utente puòdisabilitare in modo selettivo l'azione di Google Analytics installando sul proprio browser l'apposito componente fornito da Google (opt out). Per disabilitare la raccolta di dati da parte di Google Analytics, si rinvia al link di seguito indicato:
 
 https://tools.google.com/dlpage/gaoptout
+{: .text-justify}
