@@ -60,9 +60,9 @@ Il conferimento dei dati personali è obbligatorio esclusivamente per i trattame
 
 3. SOGGETTI DEL TRATTAMENTO
 
-Titolare del trattamento è Corpo Musicale Banda Villa di Tirano (di seguito indicata come Associazione), con sede legale in Piazza Torelli 1, 23030 Villa di Tirano 23030, email: info@bandavillafrancapiemonte.it.
+Titolare del trattamento è la Banda Musicale Autonoma Santa Cecilia (di seguito indicata come Associazione), con sede legale in Via Valzania 10 - 10068 Villafranca Piemonte, email: info@bandavillafrancapiemonte.it.
 
-Responsabile del trattamento dei dati personali per conto del sito è il Presidente del Corpo Musicale banda Villa di Tirano in carica.
+Responsabile del trattamento dei dati personali per conto del sito è il Presidente della Banda Musicale Autonoma Santa Cecilia in carica.
 
 I tuoi dati saranno trattati da soggetti designati dall’Associazione incaricati e/o responsabili del trattamento.
 
