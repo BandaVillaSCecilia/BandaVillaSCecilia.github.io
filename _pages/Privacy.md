@@ -13,7 +13,7 @@ In ottemperanza degli obblighi derivanti dalla normativa nazionale (D. Lgs 30 gi
 
 ## TIPI DI DATI RACCOLTI
 
-Utilizzando il nostro sito, o aderendo al servizio Newsletter (qualora messo a disposizione), accetti che il www.bandavilladitirano.it raccolga alcuni tuoi dati personali. Questa pagina ha lo scopo definire quali dati vengono raccolti, perché e come vengono usati.
+Utilizzando il nostro sito, o aderendo al servizio Newsletter (qualora messo a disposizione), accetti che il www.bandavillafrancapiemonte.it raccolga alcuni tuoi dati personali. Questa pagina ha lo scopo definire quali dati vengono raccolti, perché e come vengono usati.
 
 Si trattano due tipi di dati:
 
@@ -55,12 +55,12 @@ I dati di raccolti automaticamente possono essere utilizzati per ricavare inform
 
 2. MODALITA‘ DEL CONFERIMENTO DEI DATI
 
-Il conferimento dei dati personali è obbligatorio esclusivamente per i trattamenti necessari all’erogazione dei citati servizi riservati agli utenti registrati. (L’eventuale rifiuto per finalità di erogazione del servizio rende impossibile l’utilizzo del servizio stesso). Qualora tu decida di registrarti al sito ovvero di iscriverti alla newsletter ovvero di richiedere delle informazioni a www.bandavilladitirano.it, ti verrà richiesto di compilare un modulo e di fornire dati personali. In tal caso ti verrà sempre fornita l'informativa ai sensi dell'art. 13 del GDPR relativa al trattamento dei dati personali.
+Il conferimento dei dati personali è obbligatorio esclusivamente per i trattamenti necessari all’erogazione dei citati servizi riservati agli utenti registrati. (L’eventuale rifiuto per finalità di erogazione del servizio rende impossibile l’utilizzo del servizio stesso). Qualora tu decida di registrarti al sito ovvero di iscriverti alla newsletter ovvero di richiedere delle informazioni a www.bandavillafrancapiemonte.it, ti verrà richiesto di compilare un modulo e di fornire dati personali. In tal caso ti verrà sempre fornita l'informativa ai sensi dell'art. 13 del GDPR relativa al trattamento dei dati personali.
 {: .text-justify} 
 
 3. SOGGETTI DEL TRATTAMENTO
 
-Titolare del trattamento è Corpo Musicale Banda Villa di Tirano (di seguito indicata come Associazione), con sede legale in Piazza Torelli 1, 23030 Villa di Tirano 23030, email: info@bandavilladitirano.it.
+Titolare del trattamento è Corpo Musicale Banda Villa di Tirano (di seguito indicata come Associazione), con sede legale in Piazza Torelli 1, 23030 Villa di Tirano 23030, email: info@bandavillafrancapiemonte.it.
 
 Responsabile del trattamento dei dati personali per conto del sito è il Presidente del Corpo Musicale banda Villa di Tirano in carica.
 
@@ -68,13 +68,13 @@ I tuoi dati saranno trattati da soggetti designati dall’Associazione incaricat
 
 I tuoi dati potranno essere trattati da società di nostra fiducia che svolgono per nostro conto compiti di natura tecnica ed organizzativa, su server nel territorio di Paesi appartenenti all’Unione Europea (UE) ovvero extra UE nel rispetto della normativa in materia di protezione dei dati personali. A titolo esemplificativo e non esaustivo: società che fornisce servizi di hosting del Sito.
 
-Queste società sono nostre dirette collaboratrici e svolgono la funzione di responsabile del trattamento. Il loro elenco è costantemente aggiornato ed è disponibile su richiesta inviando una comunicazione all’indirizzo sopra indicato ovvero un’ e-mail a info@bandavilladitirano.it.
+Queste società sono nostre dirette collaboratrici e svolgono la funzione di responsabile del trattamento. Il loro elenco è costantemente aggiornato ed è disponibile su richiesta inviando una comunicazione all’indirizzo sopra indicato ovvero un’ e-mail a info@bandavillafrancapiemonte.it.
 
 Non cediamo o vendiamo dati personali a soggetti terzi.
 
 Qualora tu, utilizzando i plugin e/o bottoni per i social network presenti sul sito, decida di condividere alcuni contenuti del sito, i tuoi dati potranno essere visibili da altri utenti di Facebook e/o Twitter e/o Google+ e/o Pinterest e potranno essere trasferiti dagli stessi social network fuori dall’Unione Europea, negli Stati Uniti d’America.
 
-La raccolta e l'uso delle informazioni ottenute a mezzo del plugin sono regolati dalle rispettive informative privacy dei social network, alle quali si prega di fare riferimento, poiché l’impiego delle suddette tecnologie di interazione con i Social network è regolato dalle informative sulla privacy di dette società e non dall’informativa privacy www.bandavilladitirano.it. Nell’apposita sezione della presente pagina sono elencati per tua comodità i link alle privacy policy delle terze parti.
+La raccolta e l'uso delle informazioni ottenute a mezzo del plugin sono regolati dalle rispettive informative privacy dei social network, alle quali si prega di fare riferimento, poiché l’impiego delle suddette tecnologie di interazione con i Social network è regolato dalle informative sulla privacy di dette società e non dall’informativa privacy www.bandavillafrancapiemonte.it. Nell’apposita sezione della presente pagina sono elencati per tua comodità i link alle privacy policy delle terze parti.
 {: .text-justify}
 
 4. RICHIESTA INFORMAZIONI SUI DATI, MODIFICA O CANCELLAZIONE
@@ -114,29 +114,29 @@ I cookie sono di tipo “persistente” quando vengono memorizzati in modo perma
 
 I cookie installati dal server web sul quale si sta navigando sono detti “cookie di prima parte, mentre quelli installati da altri siti web vengono definiti “cookie di terze parti”.
 
-I cookie utilizzati dal sito web www.bandavilladitirano.it sono utilizzati per diverse finalità come meglio specificato al punto 2 di questa sezione dell'informativa.
+I cookie utilizzati dal sito web www.bandavillafrancapiemonte.it sono utilizzati per diverse finalità come meglio specificato al punto 2 di questa sezione dell'informativa.
 
-Di seguito troverai tutte le informazioni sui cookie installati attraverso il sito www.bandavilladitirano.it e/o relative applicazioni e le indicazioni necessarie su come gestire le tue preferenze riguardo ad essi.
+Di seguito troverai tutte le informazioni sui cookie installati attraverso il sito www.bandavillafrancapiemonte.it e/o relative applicazioni e le indicazioni necessarie su come gestire le tue preferenze riguardo ad essi.
 {: .text-justify}
 
-2. COOKIE UTILIZZATI DAL SITO www.bandavilladitirano.it
+2. COOKIE UTILIZZATI DAL SITO www.bandavillafrancapiemonte.it
 
 2.1. Cookie “di prima parte” e relative finalità
 
-Le finalità principali dei cookie “di prima parte" installati dal sito web www.bandavilladitirano.it sono tecniche e di gestione della sessione. I cookie tecnici vengono utilizzati per finalità connesse all’erogazione del servizio e per consentire o migliorare la navigazione sul sito e sono indispensabili per garantirne il corretto funzionamento.  
+Le finalità principali dei cookie “di prima parte" installati dal sito web www.bandavillafrancapiemonte.it sono tecniche e di gestione della sessione. I cookie tecnici vengono utilizzati per finalità connesse all’erogazione del servizio e per consentire o migliorare la navigazione sul sito e sono indispensabili per garantirne il corretto funzionamento.  
 
 I cookie di sessione vengono installati nel caso di utilizzo dei servizi riservati a singoli utenti. Questi cookie di sessione sono utilizzati dal sito per poter distinguere tra gli utenti collegati, ed evitano che una funzionalità richiesta possa essere fornita all'utente sbagliato. I cookie di sessione non contengono dati personali e vengono cancellati al termine della sessione o alla chiusura del browser.
 {: .text-justify}
 
 2.2. Cookie “di terza parte” e relative finalità
 
-Il sito www.bandavilladitirano.it fa uso di Google analytics con finalità analitiche e statistiche. Google Analytics è uno strumento reso disponibile da Google che permette l’analisi dell'uso del sito da parte degli utenti e la produzione di report sulle attività nel sito e di altre informazioni di carattere statistico, quali il numero dei visitatori Google. Per gli scopi suddetti utilizza dei cookies e colleziona dati di navigazione anonimi (IP troncati all'ultimo ottetto).
+Il sito www.bandavillafrancapiemonte.it fa uso di Google analytics con finalità analitiche e statistiche. Google Analytics è uno strumento reso disponibile da Google che permette l’analisi dell'uso del sito da parte degli utenti e la produzione di report sulle attività nel sito e di altre informazioni di carattere statistico, quali il numero dei visitatori Google. Per gli scopi suddetti utilizza dei cookies e colleziona dati di navigazione anonimi (IP troncati all'ultimo ottetto).
 
 Tali cookie supportano cioè la raccolta di informazioni statistiche sull’utilizzo del sito da parte degli utenti (e.g. numero visitatori, pagine visitate, …) e vengono impiegati per analizzare il traffico sulle nostre pagine in modo anonimo, senza memorizzare dati personali.
 
-Il sito www.bandavilladitirano.it contiene anche plugin e/o bottoni per i social network, che permettono agli utenti una facile condivisione dei contenuti sui social network preferiti. Quando l’utente utilizza i plugin, se così è previsto dai social network così richiamati, gli stessi possono utilizzare dei cookie funzionali al servizio dagli stessi erogato.
+Il sito www.bandavillafrancapiemonte.it contiene anche plugin e/o bottoni per i social network, che permettono agli utenti una facile condivisione dei contenuti sui social network preferiti. Quando l’utente utilizza i plugin, se così è previsto dai social network così richiamati, gli stessi possono utilizzare dei cookie funzionali al servizio dagli stessi erogato.
 
-La raccolta e l'uso delle informazioni ottenute a mezzo del plugin sono regolati dalle rispettive informative privacy dei social network, alle quali si prega di fare riferimento, poiché l’impiego delle suddette tecnologie di interazione con i Social network è regolato dalle informative sulla privacy di dette società e non dall’informativa privacy www.bandavilladitirano.it. Nell’apposita sezione della presente pagina sono elencati per tua comodità i link alle privacy policy delle terze parti.
+La raccolta e l'uso delle informazioni ottenute a mezzo del plugin sono regolati dalle rispettive informative privacy dei social network, alle quali si prega di fare riferimento, poiché l’impiego delle suddette tecnologie di interazione con i Social network è regolato dalle informative sulla privacy di dette società e non dall’informativa privacy www.bandavillafrancapiemonte.it. Nell’apposita sezione della presente pagina sono elencati per tua comodità i link alle privacy policy delle terze parti.
 
 I Social network i cui plugin sono presenti sul sito sono: Facebook, Twitter, Googleplus, Pinterest.
 {: .text-justify}
@@ -205,7 +205,7 @@ https://policy.pinterest.com/it/privacy-policy
 
 2. GOOGLE ANALYTICS
 
-Il sito www.bandavilladitirano.it fa uso di Google analytics con finalità analitiche e statistiche. (vedasi paragrafo 2.2 della sezione “Cookie”di questa pagina.
+Il sito www.bandavillafrancapiemonte.it fa uso di Google analytics con finalità analitiche e statistiche. (vedasi paragrafo 2.2 della sezione “Cookie”di questa pagina.
 
 Per informazioni sull’uso dei dati e sul loro trattamento da parte di Google si raccomanda di prendere visione delle informazioni al seguente indirizzo internet: http://www.google.com/intl/it/policies/privacy/ .
 
