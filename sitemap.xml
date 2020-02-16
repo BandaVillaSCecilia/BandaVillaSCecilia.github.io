@@ -6,129 +6,242 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>https://www.bandavillafrancapiemonte.it/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Vacanze-Natalizie/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/banda/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Canale-Telegram/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/majorettes/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Foto-Santa-Cecilia-2017/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/scuola/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Giro-del-mondo-in-musica/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/storia/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Festa-dei-Pescatori/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/calendario/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Festa-San-Leone-a-Manta/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/galleria/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Foto-Gignese-e-ferie-estive/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/video/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Sagra-del-Burlagh-a-Gignese/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/contatti/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/privacy/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/concerto-santa-cecilia-2019/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Festa-dei-Pescatori-2019/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Festa-della-Madonna-della-Noce-2019/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Vacanze-estive/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/FantaPo-2019/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bandavillafrancapiemonte.it/page2/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bandavillafrancapiemonte.it/page3/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Foto-Raduno-Note-dal-Monviso/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.bandavillafrancapiemonte.it/Raduno-bande-Note-dal-Monviso/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.bandavillafrancapiemonte.it/Raduno-bande-a-Carmagnola/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.bandavillafrancapiemonte.it/Nuove-foto-nella-galleria/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.bandavillafrancapiemonte.it/Playlist-concerto-Note-da-Film/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://www.bandavillafrancapiemonte.it/page7/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bandavillafrancapiemonte.it/Nuovo-calendario-servizi-online/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Mostra-820-anni-di-fondazione-di-Villafranca/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/elezioni-direttivo/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Anniversari-in-banda/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/concerto-santa-cecilia-2018/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/95-Anniversario-fondazione/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/Nuove-Presidente-Anbima-Torino/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/10-anni-con-il-nostro-Maestro/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/Playlist-concerto-Giro-del-mondo-in-musica/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Un-nuovo-componente-in-banda/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/Vacanze-Natalizie/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Premiazioni-ai-nostri-musici/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/page4/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.bandavillafrancapiemonte.it/Inaugurazione-Sede/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <loc>https://www.bandavillafrancapiemonte.it/Canale-Telegram/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Foto-Santa-Cecilia-2017/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Giro-del-mondo-in-musica/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Festa-dei-Pescatori/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Festa-San-Leone-a-Manta/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/page5/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/page6/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.bandavillafrancapiemonte.it/Tributo-tessera-ANBIMA/</loc>
-  <lastmod>2017-12-24T09:28:29+00:00</lastmod>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Mostra-820-anni-di-fondazione-di-Villafranca/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Playlist-concerto-Note-da-Film/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Foto-Gignese-e-ferie-estive/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Sagra-del-Burlagh-a-Gignese/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Foto-Raduno-Note-dal-Monviso/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Raduno-bande-Note-dal-Monviso/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Raduno-bande-a-Carmagnola/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Nuove-foto-nella-galleria/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Anniversari-in-banda/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/95-Anniversario-fondazione/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/10-anni-con-il-nostro-Maestro/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Un-nuovo-componente-in-banda/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Premiazioni-ai-nostri-musici/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.bandavillafrancapiemonte.it/Inaugurazione-Sede/</loc>
+  <lastmod>2020-01-13T23:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
