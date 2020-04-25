@@ -10,7 +10,7 @@ Qui potete trovare il video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6z9hkkt5jZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Link alle nostre pagine [Facebook|https://www.facebook.com/story.php?story_fbid=130375411941820&id=101403094839052] e [Instagram|https://www.instagram.com/p/B_ZNOYRlF0D/?igshid=1m71s4h8i4it0].
+Link alle nostre pagine [Facebook](https://www.facebook.com/story.php?story_fbid=130375411941820&id=101403094839052) e [Instagram](https://www.instagram.com/p/B_ZNOYRlF0D/?igshid=1m71s4h8i4it0).
 {: .text-justify}
 
 Sul nostro canale [Youtube](https://www.youtube.com/user/BandaSCeciliaVIlla) è possibile trovare delle playlist ad altre nostre esecuzioni. Fate un salto a darci un'occhiata!
