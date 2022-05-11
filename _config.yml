@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "it"
-title                    : "Banda Musicale Autonoma Santa Cecilia di Villafranca Piemonte"
+title                    : "Banda Musicale Santa Cecilia di Villafranca Piemonte APS"
 title_separator          : "-"
-name                     : "Banda Musicale Autonoma Santa Cecilia di Villafranca Piemonte"
-description              : "Sito Web della Banda Musicale Autonoma Santa Cecilia di Villafranca Piemonte"
+name                     : "Banda Musicale Santa Cecilia di Villafranca Piemonte APS"
+description              : "Sito Web della Banda Musicale Santa Cecilia di Villafranca Piemonte APS"
 url                      : "http://www.bandavillafrancapiemonte.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "BandaVillaSCecilia/BandaVillaSCecilia.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
