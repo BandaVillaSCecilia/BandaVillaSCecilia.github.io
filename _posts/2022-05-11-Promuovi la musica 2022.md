@@ -1,7 +1,7 @@
 ---
 layout: single
 ---
-Dona il tuo 2 per mille e/o il tuo 5 per mille alla Banda Musicale Santa Cecilia Villafranca Piemonte APS
+Dona il tuo 5 per mille alla Banda Musicale Santa Cecilia Villafranca Piemonte APS
 {: .notice--info}
 
 Grazie al tuo contributo la nostra associazione potrà organizzare nuove attività di promozione dell'insegnamento musicale, della cultura bandistica e majorettistica per il territorio Villafranchese!
