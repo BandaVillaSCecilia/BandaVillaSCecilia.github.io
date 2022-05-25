@@ -73,13 +73,12 @@ references:
 - **Maestro:** Prof. FACCIN Alessandro
 - **Presidente:** DOLEATTO Lorenzo
 - **Capitana Majorettes:** BRUNO Isabella
-- **Vicepresidente:** GALLO Federica
-- **Tesoriere:** ODETTI Oscar
-- **Segretario:** PONZIO Carla
+- **Vicepresidente:** NICOLA Alessia
+- **Tesoriere:** NICOLA Marino
+- **Segretario:** FAULE Federica
 - **Consiglieri:**
-  - *Responsabile Divise e Allievi:* BARBERO Federico
-  - *Responsabile Archivio:* ROLLE' Andrea
-  - *Responsabile Comunicazione:* NICOLA Alessia
+  - GIACOSA Luca
+  - ROLLE' Andrea
 
 ## Riferimenti
 {% include gallery id="references" %}
