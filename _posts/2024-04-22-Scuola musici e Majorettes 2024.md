@@ -21,7 +21,7 @@ Per iscriverti ai corsi, contatta la Banda Musicale Santa Cecilia al numero di t
 
 Non perdere questa fantastica opportunità di esplorare il mondo della musica e divertirti insieme ad altri giovani talenti! 🎵🎺🥁
 
-{% include figure image_path="/assets/images/posts/20240422/Image_Corso_2024.jpeg" alt="5x1000" caption="5x1000" %}
+{% include figure image_path="/assets/images/posts/20240422/Image_Corso_2024.jpeg" alt="Corso di Orientamento Musicale" caption="Corso di Orientamento Musicale" %}
 
 ---
 
