@@ -7,7 +7,7 @@ L'evento si terrà a partire dalle *ore 21:00* **Venerdì 5 luglio 2025** con l'
 Appuntamento dunque nel cortile del centro polifunzionale in Via Valzania 10 a Villafranca Piemonte!
 {: .text-justify}
 
-
+{% include figure image_path="/assets/images/posts/20240624/IMG-20240630-WA0000.jpg" alt="Concerto d'estate @ Villafranca Piemonte" caption="Concerto d'estate @ Villafranca Piemonte" %}
 
 ---
 
