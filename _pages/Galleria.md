@@ -3,9 +3,13 @@ layout: single
 permalink: /galleria/
 gallery:
   - url: https://bit.ly/3LeLSzT
-    image_path: assets/images/posts/20240707/450164757_923321296474003_4741503378782314434_n.jpg
+    image_path: /assets/images/posts/20240707/450164757_923321296474003_4741503378782314434_n.jpg
     alt: "Concerto d'Estate 2024 @ Villafranca Piemonte"
     title: "Concerto d'Estate 2024 @ Villafranca Piemonte"
+  - url: https://bit.ly/ConcertoSantaCecilia2023
+    image_path: /assets/images/posts/20231119/409008218_786098613529606_7111921851532941393_n.jpg
+    alt: "Santa Cecilia 2023 @ Villafranca Piemonte"
+    title: "Santa Cecilia 2023 @ Villafranca Piemonte"
   - url: https://bit.ly/RadunoBande2022
     image_path: /assets/images/posts/20220719/Raduno2022.jpg
     alt: "Raduno Bande Villafranca Piemonte 2022 @ Villafranca Piemonte"
