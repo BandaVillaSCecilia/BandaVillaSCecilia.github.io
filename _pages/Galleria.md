@@ -2,6 +2,14 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: https://bit.ly/3LeLSzT
+    image_path: assets/images/posts/20240707/450164757_923321296474003_4741503378782314434_n.jpg
+    alt: "Concerto d'Estate 2024 @ Villafranca Piemonte"
+    title: "Concerto d'Estate 2024 @ Villafranca Piemonte"
+  - url: https://bit.ly/RadunoBande2022
+    image_path: /assets/images/posts/20220719/Raduno2022.jpg
+    alt: "Raduno Bande Villafranca Piemonte 2022 @ Villafranca Piemonte"
+    title: "Raduno Bande Villafranca Piemonte 2022 @ Villafranca Piemonte"
   - url: http://bit.ly/FantaPo2019
     image_path: /assets/images/posts/20190629/FantaPo2019.jpg
     alt: "Fanta Po 2019 @ Villafranca Piemonte"

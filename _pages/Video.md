@@ -8,6 +8,10 @@ permalink: /video/
 Un estratto della galleria video della nostra Banda, visibile sul nostro canale [YouTube](http://bit.ly/YoutubeBandaVilla).  
 {: .text-justify}  
 
+### Concerto Estate 2024
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLycGiRg32hEQKWMCE3tyReXaW8gzW7DTj" frameborder="0" allowfullscreen></iframe>
+
 ### Giro del Mondo in Musica - Santa Cecilia 2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLycGiRg32hEQDVyOLZfCaaqpNTChjMgBE" frameborder="0" allowfullscreen></iframe>
