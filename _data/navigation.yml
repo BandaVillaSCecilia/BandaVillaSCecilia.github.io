@@ -12,20 +12,20 @@ main:
   #   url: /sitemap/
   - title: "5x1000"
     url: /5x1000/
-  - title: "La Banda"
-    url: /banda/
-  - title: "Le Majorettes"
-    url: /majorettes/
-  - title: "La Scuola"
-    url: /scuola/
-  - title: "La Storia"
-    url: /storia/
-  - title: "Calendario Eventi"
-    url: /calendario/
   - title: "La Galleria"
     url: /galleria/
   - title: "I Video"
     url: /video/
+  - title: "Calendario Eventi"
+    url: /calendario/
+  - title: "La Banda"
+    url: /banda/
+  - title: "Le Majorettes"
+    url: /majorettes/
+  - title: "La Storia"
+    url: /storia/
+  - title: "La Scuola"
+    url: /scuola/
   - title: "I Contatti"
     url: /contatti/
   - title: "Privacy"
