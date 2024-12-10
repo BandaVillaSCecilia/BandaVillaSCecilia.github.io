@@ -70,12 +70,10 @@ references:
 - **Soundcloud:** [snd.cld/BandaVillafrancaPiemonte](http://bit.ly/SoundcloudBandaVilla) -->
 
 ## Direttivo & Cariche
-- **Maestro:** Prof. FACCIN Alessandro
-- **Presidente:** DOLEATTO Lorenzo
+- **Maestro:** Prof. CALLIANO Teresio
+- **Presidente:** FAULE Federica
 - **Capitana Majorettes:** BRUNO Isabella
-- **Vicepresidente:** NICOLA Alessia
 - **Tesoriere:** NICOLA Marino
-- **Segretario:** FAULE Federica
 - **Consiglieri:**
   - GIACOSA Luca
   - ROLLE' Andrea
@@ -93,11 +91,12 @@ references:
 
 - [Pinerolo Play](http://www.pineroloplay.it)
 - [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/)
+- [LA VIGONEISA Banda Folkloristica con Majorettes APS-ETS](https://www.lavigoneisa.it/)
+- [Filarmonica Morettese](http://www.filarmonicamorettese.it/)
 - [Congedati della Fanfara Brigata Alpina Taurinense](http://www.congedatifanfarataurinense.it/)
 - [Associazione Amici dei Bambini Cardiopatici](https://www.aabambinicardiopatici.it/)
 - [Amici del Po](http://www.amicidelpo.net/)
 - [Comitato 'l ciuchè](http://www.comitatolciuche.it/)
 - [Traghetto sul fiume Po](http://web.tiscali.it/traghettosulpo/)
 - [Piero Strobino](http://spazioinwind.libero.it/strobino/)
-- [Devalleandrea Arredamenti Mongano - Radici](http://www.devalleandrea.it/)
 - [Doleatto Lorenzo Acconciature](http://www.doleattolorenzo.com/) 
