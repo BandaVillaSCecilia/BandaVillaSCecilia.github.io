@@ -2,6 +2,10 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: https://bit.ly/ConcertoSantaCecilia2024
+    image_path: /assets/images/posts/20241216/concerto-1.jpeg
+    alt: "Concerto Santa Cecilia 2024 @ Villafranca Piemonte"
+    title: "Concerto Santa Cecilia 2024 @ Villafranca Piemonte"
   - url: https://bit.ly/3LeLSzT
     image_path: /assets/images/posts/20240707/450164757_923321296474003_4741503378782314434_n.jpg
     alt: "Concerto d'Estate 2024 @ Villafranca Piemonte"
