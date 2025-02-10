@@ -71,11 +71,12 @@ references:
 
 ## Direttivo & Cariche
 - **Maestro:** Prof. CALLIANO Teresio
-- **Presidente:** FAULE Federica
-- **Capitana Majorettes:** BRUNO Isabella
-- **Tesoriere:** NICOLA Marino
+- **Presidente:** COSTAMAGNA Michela
+- **Capitana Majorettes e Vicepresidente:** BRUNO Isabella
+- **Tesoriere:** CASTAGNO Alessio
 - **Consiglieri:**
   - GIACOSA Luca
+  - NICOLA Marino
   - ROLLE' Andrea
 
 ## Riferimenti
@@ -89,8 +90,8 @@ references:
 
 ## Siti dei nostri amici
 
-- [Pinerolo Play](http://www.pineroloplay.it)
-- [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/)
+<!-- - [Pinerolo Play](http://www.pineroloplay.it)
+- [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/) -->
 - [LA VIGONEISA Banda Folkloristica con Majorettes APS-ETS](https://www.lavigoneisa.it/)
 - [Filarmonica Morettese](http://www.filarmonicamorettese.it/)
 - [Congedati della Fanfara Brigata Alpina Taurinense](http://www.congedatifanfarataurinense.it/)
@@ -99,4 +100,4 @@ references:
 - [Comitato 'l ciuchè](http://www.comitatolciuche.it/)
 - [Traghetto sul fiume Po](http://web.tiscali.it/traghettosulpo/)
 - [Piero Strobino](http://spazioinwind.libero.it/strobino/)
-- [Doleatto Lorenzo Acconciature](http://www.doleattolorenzo.com/) 
+<!-- - [Doleatto Lorenzo Acconciature](http://www.doleattolorenzo.com/) -->
