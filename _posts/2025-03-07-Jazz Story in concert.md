@@ -4,24 +4,25 @@ layout: single
 
 ## Jazz Story in Concert
 
-La Banda Musicale Santa Cecilia di Villafranca Piemonte e il gruppo Majorettes, diretti dal maestro Teresio Calliano, sono pronti a portarvi in un viaggio emozionante attraverso la storia del jazz con lo spettacolo teatrale "Jazz Story in Concert"! 🎭🎺
+La Banda Musicale Santa Cecilia di Villafranca Piemonte e il gruppo Majorettes, diretti dal maestro Teresio Calliano, sono pronti a portarvi in un viaggio emozionante attraverso la storia del jazz con lo spettacolo teatrale "Jazz Story in Concert"! 🎭🎺  
 
-📅 Quando?
-🗓 22 marzo 2025
-🕘 Ore 21:00
+📅 Quando?  
+🗓 22 marzo 2025  
+🕘 Ore 21:00  
 
-📍 Dove?
-🎭 Teatro SOMS - Progetto Cantoregi
-📌 Via Carlo Costa, 23 – Racconigi
+📍 Dove?  
+🎭 Teatro SOMS - Progetto Cantoregi  
+📌 Via Carlo Costa, 23 – Racconigi  
 
-Un evento unico che unisce musica, danza e narrazione, con la partecipazione di Giuseppe Rainero e Giancarlo Serra, la voce straordinaria di Matilde Lentini e un corpo di ballo d’eccezione:
-💃 Alessandra Rol & Giorgia Audisio – Charleston
-💃 Adelaide Rispoli & Alexis Hernandez Lopez – Mambo
-💃 Inga Šležina & Daniele Allocco – Tango
+Un evento unico che unisce musica, danza e narrazione, con la partecipazione di Giuseppe Rainero e Giancarlo Serra, la voce straordinaria di Matilde Lentini e un corpo di ballo d’eccezione:  
 
-🎭 Regia: Franco Angelone
-🎨 Scenografia: Chiara Cosentino
-🔊 Audio & luci: Claudio Allione
+💃 Alessandra Rol & Giorgia Audisio – Charleston  
+💃 Adelaide Rispoli & Alexis Hernandez Lopez – Mambo  
+💃 Inga Šležina & Daniele Allocco – Tango  
+
+🎭 Regia: Franco Angelone  
+🎨 Scenografia: Chiara Cosentino  
+🔊 Audio & luci: Claudio Allione  
 
 Con il patrocinio del Comune di Villafranca Piemonte, della Città di Racconigi e di ANBIMA APS, questa serata vi farà vivere la magia del jazz attraverso uno spettacolo coinvolgente, ricco di ritmo ed emozione.
 
