@@ -1,19 +1,6 @@
 ---
 layout: single
-permalink: /5x1000/
 ---
-
-## Donazioni tramite 5x1000
-
-Per supportare la nostra attività sul territorio villafranchese e promuovere l'insegnamento e la cultura musicale e majorettistica, associativa e sociale, dona anche tu il tuo 5x1000 alla nostra Associazione.
-
-{: .text-justify}
-
-Di seguito le informazioni utili da inserire nella dichiarazione dei redditi:
-{: .text-justify}
-
-|Codice Fiscale|94548230013|
-|Nome|Banda Musicale Santa Cecilia Villafranca Piemonte APS|
 
 ## Donazioni tramite Satispay
 
@@ -37,3 +24,8 @@ Ogni contributo, grande o piccolo, fa la differenza! Aiutaci a diffondere la mus
 💖 Grazie per il tuo supporto! 🎶
 
 {% include figure image_path="/assets/images/posts/20250225/qr.jpeg" alt="QR Satispay" caption="QR Satispay" %}
+
+---
+
+Se non l'hai ancora fatto, unisciti al **canale Telegram** [@BandaVillafrancaPiemonte](https://t.me/BandaVillafrancaPiemonte) per rimanere aggiornato sulle ultime novità! Seguiteci sui nostri social, ogni like e condivisione è apprezzata!
+{: .text-justify}
