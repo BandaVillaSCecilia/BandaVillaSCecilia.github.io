@@ -16,7 +16,7 @@ Con un semplice gesto dal tuo smartphone, puoi aiutarci a portare avanti la nost
 
 Come donare? <br/>
 1️⃣ Apri l’app Satispay <br/>
-2️⃣ Scansiona il QR Code seguente <br/>
+2️⃣ Scansiona il QR Code seguente o visita il seguente [link](https://web.satispay.com/download/qrcode/S6Y-SVN--4D6F87C2-3A9A-4448-B08D-23236E598A07?locale=it_IT) <br/>
 3️⃣ Scegli l’importo e conferma la donazione <br/>
 
 Ogni contributo, grande o piccolo, fa la differenza! Aiutaci a diffondere la musica e a far crescere la nostra banda.
