@@ -2,6 +2,17 @@
 layout: single
 ---
 
+## Aggiornamento - 12/03/2025
+
+Ringraziamo tutti coloro che hanno contattato per riservare un posto allo spettacolo *"Jazz Story in Concert"*.  
+Attualmente, tutti i posti disponibili sono esauriti, quindi non possiamo accettare ulteriori prenotazioni.  
+
+Chi fosse interessato può comunque presentarsi in teatro la sera dello spettacolo, nel caso si rendessero disponibili posti last-minute.
+
+{% include figure image_path="/assets/images/posts/20250307/volantino-sold-out.jpeg" alt="Volantino Jazz Story in concert" caption="Volantino Jazz Story in concert" %}
+
+---
+
 ## Jazz Story in Concert
 
 La Banda Musicale Santa Cecilia di Villafranca Piemonte e il gruppo Majorettes, diretti dal maestro Teresio Calliano, sono pronti a portarvi in un viaggio emozionante attraverso la storia del jazz con lo spettacolo teatrale "Jazz Story in Concert"! 🎭🎺  
