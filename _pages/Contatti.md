@@ -70,7 +70,7 @@ references:
 - **Soundcloud:** [snd.cld/BandaVillafrancaPiemonte](http://bit.ly/SoundcloudBandaVilla) -->
 
 ## Direttivo & Cariche
-- **Maestro:** Prof. CALLIANO Teresio
+- **Maestro:** Prof. BRUNO Diego
 - **Presidente:** COSTAMAGNA Michela
 - **Capitana Majorettes e Vicepresidente:** BRUNO Isabella
 - **Tesoriere:** CASTAGNO Alessio
