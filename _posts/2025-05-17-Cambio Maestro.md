@@ -3,7 +3,7 @@ layout: single
 ---
 ## Cambio di Maestro per la Banda di Villafranca P.te
 
-Il 2025 è un anno di grandi cambiamenti per la Banda Musicale Santa Cecilia di VillafrancaPiemonte. <br/>
+Il 2025 è un anno di grandi cambiamenti per la Banda Musicale Santa Cecilia di Villafranca Piemonte. <br/>
 {: .text-justify}
 
 A seguito delle dimissioni volontarie del maestro uscente Teresio Calliano, la banda di Villafranca da il benvenuto al nuovo Maestro.<br/>
