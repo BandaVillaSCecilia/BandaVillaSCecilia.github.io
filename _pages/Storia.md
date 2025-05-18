@@ -50,7 +50,7 @@ Dal 1984 è stata adottata la divisa che riprende i colori (bordeaux/oro) dello 
 ## Maestri, Presidenti e Madrine
 
 ### Maestri
-Nella primavera del 1921 la Banda Musicale S. Cecilia fece la sua prima uscita ufficiale: una trentina di musici diretti dal maestro **Enrico Abrate** di Carmagnola. Dopo di lui presero la direzione del complesso il maestro **Fagioli**; il maestro **Bertelli**; dal 1929 al 1979 il maestro **Antonio Guglielmino** (già vice maestro dal 1920), con una breve interruzione tra l'anno 1958 e 1959 in cui diresse il maestro **Cesare Bergamasco**; dal 1979 al 1986 il maestro **Michele Marengo**; dal 1986 al 2004 il maestro **Mario Bellino**, dal 2005 al 2023 il maestro Prof. **Alessandro Faccin** e infine dal 2023 il maestro Prof. **Teresio Calliano**.  
+Nella primavera del 1921 la Banda Musicale S. Cecilia fece la sua prima uscita ufficiale: una trentina di musici diretti dal maestro **Enrico Abrate** di Carmagnola. Dopo di lui presero la direzione del complesso il maestro **Fagioli**; il maestro **Bertelli**; dal 1929 al 1979 il maestro **Antonio Guglielmino** (già vice maestro dal 1920), con una breve interruzione tra l'anno 1958 e 1959 in cui diresse il maestro **Cesare Bergamasco**; dal 1979 al 1986 il maestro **Michele Marengo**; dal 1986 al 2004 il maestro **Mario Bellino**, dal 2005 al 2023 il maestro Prof. **Alessandro Faccin**, dal 2023 al 2025 il maestro Prof. **Teresio Calliano**. Infine, dalla primavera del 2025 dirige la banda il maestro prof. **Diego Bruno**. 
 {: .text-justify}  
 
 ### Presidenti
