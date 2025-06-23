@@ -2,6 +2,10 @@
 layout: single
 permalink: /galleria/
 gallery:
+  - url: https://photos.app.goo.gl/cpNqAszsRV8UbyY78
+    image_path: /assets/images/posts/20250622/12.jpeg
+    alt: "45 Anniversario Amici del PO @ Villafranca Piemonte"
+    title: "45 Anniversario Amici del PO @ Villafranca Piemonte"
   - url: https://bit.ly/ConcertoSantaCecilia2024
     image_path: /assets/images/posts/20241216/concerto-1.jpeg
     alt: "Concerto Santa Cecilia 2024 @ Villafranca Piemonte"
