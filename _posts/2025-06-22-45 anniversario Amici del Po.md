@@ -7,7 +7,7 @@ gallery:
   - image_path: /assets/images/posts/20250622/2.jpeg
     alt: "45 Anniversario Amici del PO @ Villafranca Piemonte"
     title: "45 Anniversario Amici del PO @ Villafranca Piemonte"
-  - image_path: /assets/images/posts/20250622/3.jpeg
+  - image_path: /assets/images/posts/20250622/13.jpeg
     alt: "45 Anniversario Amici del PO @ Villafranca Piemonte"
     title: "45 Anniversario Amici del PO @ Villafranca Piemonte"
   - image_path: /assets/images/posts/20250622/4.jpeg
@@ -37,7 +37,7 @@ gallery:
   - image_path: /assets/images/posts/20250622/12.jpeg
     alt: "45 Anniversario Amici del PO @ Villafranca Piemonte"
     title: "45 Anniversario Amici del PO @ Villafranca Piemonte"
-  - image_path: /assets/images/posts/20250622/13.jpeg
+  - image_path: /assets/images/posts/20250622/3.jpeg
     alt: "45 Anniversario Amici del PO @ Villafranca Piemonte"
     title: "45 Anniversario Amici del PO @ Villafranca Piemonte"
 ---
