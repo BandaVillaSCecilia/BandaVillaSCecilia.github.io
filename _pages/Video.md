@@ -8,6 +8,10 @@ permalink: /video/
 Un estratto della galleria video della nostra Banda, visibile sul nostro canale [YouTube](http://bit.ly/YoutubeBandaVilla).  
 {: .text-justify}  
 
+### Jazz Story in Concert
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0n2OVRPegVs?si=1hFqQF_knw_v0eup" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Concerto Estate 2024
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLycGiRg32hEQKWMCE3tyReXaW8gzW7DTj" frameborder="0" allowfullscreen></iframe>
