@@ -2,7 +2,7 @@
 layout: single
 ---
 La nostra Banda Musicale Santa Cecilia di Villafranca Piemonte è lieta di invitarvi al consueto **Concerto d'estate**. 
-L'evento si terrà a partire dalle *ore 21:00* **Venerdì 5 luglio 2025** con l'intervento della formazione musicale della Filarmonica Morettese.
+L'evento si terrà a partire dalle *ore 21:00* **Venerdì 5 luglio 2024** con l'intervento della formazione musicale della Filarmonica Morettese.
 
 Appuntamento dunque nel cortile del centro polifunzionale in Via Valzania 10 a Villafranca Piemonte!
 {: .text-justify}
