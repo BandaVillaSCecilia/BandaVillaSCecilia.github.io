@@ -3,17 +3,17 @@ layout: single
 ---
 🎶 Concerto d’Estate 2025 – Una serata di musica e tradizione 🎶
 
-La Banda Musicale S. Cecilia di Villafranca Piemonte APS, diretta dal Professor Diego Bruno, è lieta di invitarvi al tradizionale Concerto d’Estate, che quest’anno si arricchisce di un’importante ricorrenza: il 25° anniversario del Gruppo Majorettes!
+La **Banda Musicale S. Cecilia di Villafranca Piemonte APS**, diretta dal Professor **Diego Bruno**, è lieta di invitarvi al tradizionale **Concerto d’Estate**, che quest’anno si arricchisce di un’importante ricorrenza: il **25° anniversario del Gruppo Majorettes!**
 {: .text-justify}
 
-📅 Venerdì 18 luglio 2025
-🕘 Ore 21:00
-📍 Via Roma n.49 – Villafranca Piemonte
+📅 Venerdì 18 luglio 2025 <br/>
+🕘 Ore 21:00 <br/>
+📍 Via Roma n.49 – Villafranca Piemonte <br/>
 
 Una serata speciale all’insegna della musica dal vivo, dello spettacolo e della comunità, con un programma musicale vario e coinvolgente, accompagnato dall’eleganza e dall’energia delle nostre majorettes.
 {: .text-justify}
 
-L’evento si svolge con il patrocinio del Comune di Villafranca Piemonte, di ANBIMA APS – Torino e della Banca di Cherasco.
+L’evento si svolge con il patrocinio del **Comune di Villafranca Piemont**e, di **ANBIMA APS – Torino** e della **Banca di Cherasco**.
 {: .text-justify}
 
 🎺 Non mancate: vi aspettiamo numerosi per festeggiare insieme le nostre Majorettes e ascoltare della buona musica in queste calde serate d'estate!
