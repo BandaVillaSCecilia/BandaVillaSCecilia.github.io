@@ -91,14 +91,9 @@ references:
 
 ## Siti dei nostri amici
 
-<!-- - [Pinerolo Play](http://www.pineroloplay.it)
-- [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/) -->
+- [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/)
 - [LA VIGONEISA Banda Folkloristica con Majorettes APS-ETS](https://www.lavigoneisa.it/)
 - [Filarmonica Morettese](http://www.filarmonicamorettese.it/)
 - [Congedati della Fanfara Brigata Alpina Taurinense](http://www.congedatifanfarataurinense.it/)
 - [Associazione Amici dei Bambini Cardiopatici](https://www.aabambinicardiopatici.it/)
 - [Amici del Po](http://www.amicidelpo.net/)
-<!-- - [Comitato 'l ciuchè](http://www.comitatolciuche.it/)
-- [Traghetto sul fiume Po](http://web.tiscali.it/traghettosulpo/)
-- [Piero Strobino](http://spazioinwind.libero.it/strobino/)
-- [Doleatto Lorenzo Acconciature](http://www.doleattolorenzo.com/) -->
