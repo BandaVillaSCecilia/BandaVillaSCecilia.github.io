@@ -4,6 +4,21 @@
 
 @charset "utf-8";
 
+/* --- Unified Typography Setup (Premium Clean Sans-Serif) --- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+/* --- Theme Variable Overrides (Savoy Crimson & Royal Gold Default) --- */
+$sans-serif: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$serif: $sans-serif; /* Set both variables to Inter to prevent a mix of fonts */
+
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+
+$primary-color: #7f1d1d;      /* Savoy Crimson (Default Theme) */
+$info-color:    #c5a059;      /* Royal Gold */
+$link-color:    #c5a059;      /* Gold for links */
+$link-color-hover: #b08b43;    /* Antique Darker Gold for hover */
+
 @import "minimal-mistakes/skins/default"; // skin
 @import "minimal-mistakes"; // main styles
 
@@ -33,59 +48,178 @@ body {
   flex-shrink: 0;
 }
 
-/* Custom Centered 2-Row Masthead Layout for Tablet & Desktop */
-@media (min-width: 48em) { /* Triggers at 768px (iPads, tablets, desktops) */
-  .greedy-nav {
-    flex-direction: column;
-    align-items: center;
-    padding: 1em 0;
+/* Mobile Masthead Styles (below 48em / 768px) */
+.masthead__nav-mobile {
+  display: flex !important; /* Visible on mobile */
+}
+
+.masthead__nav-desktop {
+  display: none; /* Hidden on mobile */
+}
+
+/* Desktop & Tablet Masthead Styles (48em / 768px and up) */
+@media (min-width: 48em) {
+  .masthead__nav-mobile {
+    display: none !important; /* Hide mobile menu */
   }
   
-  .greedy-nav .site-title {
-    margin-right: 0;
-    margin-bottom: 0.75em;
+  .masthead__nav-desktop {
+    display: block; /* Show desktop menu */
+    width: 100%;
+  }
+
+  /* Center the title row and tighten the padding */
+  .masthead__title-row {
     text-align: center;
-    font-size: 1.4rem;
-    font-weight: bold;
+    padding: 0.75em 0 0.5em 0; /* Tightened top/bottom padding */
+    border-bottom: 2px solid var(--masthead-border) !important; /* Dynamic border under title */
   }
   
-  .greedy-nav .visible-links {
-    display: flex !important;
+  .masthead__title-row .site-title {
+    font-family: $serif !important;
+    font-size: 1.6rem !important;
+    font-weight: 700;
+    color: var(--primary-color) !important;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+  }
+
+  /* Center the menu items row with tight padding */
+  .masthead__menu-row {
+    padding: 0.5em 0; /* Tightened menu padding */
+  }
+
+  .visible-links-desktop {
+    display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 100%;
     padding: 0;
     margin: 0;
     list-style: none;
   }
-  
-  .greedy-nav .visible-links li {
-    margin-right: 1.5em;
-    margin-bottom: 0.5em; /* Allows neat wrapping if screen size shrinks slightly */
+
+  .masthead__menu-item-desktop {
+    margin: 0.25em 0.85em; /* Tightened horizontal and vertical margin for clean wrap */
   }
-  
-  .greedy-nav .visible-links li:last-child {
-    margin-right: 0;
-  }
-  
-  .greedy-nav__toggle {
-    display: none !important; /* Completely bypasses greedy collapsing dropdown */
-  }
-  
-  /* Icon alignment in navigation menu */
-  .masthead__menu-item a {
+
+  .masthead__menu-item-desktop a {
     display: inline-flex;
     align-items: center;
+    text-decoration: none;
     font-size: 0.95rem;
+    font-weight: 500;
+    color: #475569 !important;
+    transition: all 0.2s ease-in-out !important;
   }
-  
-  .masthead__menu-item i {
+
+  .masthead__menu-item-desktop a:hover {
+    color: var(--accent-color) !important;
+    transform: translateY(-1px);
+  }
+
+  /* Style flat icons next to page links */
+  .masthead__menu-item-desktop i {
     margin-right: 0.4em;
-    color: currentColor;
-    opacity: 0.85;
     font-size: 0.9rem;
+    color: currentColor;
+    opacity: 0.8;
   }
 }
+
+/* --- Dynamic Theme Custom Properties --- */
+:root {
+  --primary-color: #7f1d1d;        /* Savoy Crimson (Default Theme) */
+  --accent-color: #c5a059;         /* Royal Gold */
+  --accent-hover: #b08b43;         /* Antique Gold */
+  --card-hover-border: rgba(197, 160, 89, 0.3);
+  --notice-bg: rgba(153, 27, 27, 0.05);
+  --notice-border: #c5a059;
+  --masthead-border: #c5a059;
+  --body-link-color: #991b1b;      /* Crimson links in body text */
+  --body-link-hover: #c5a059;      /* Turn Gold on hover */
+}
+
+/* --- Targeted Theme Link Overrides --- */
+.page__content a:not(.btn),
+.archive__item-title a,
+.author__profile a,
+.page__footer a {
+  color: var(--body-link-color);
+}
+
+.page__content a:not(.btn):hover,
+.archive__item-title a:hover,
+.author__profile a:hover,
+.page__footer a:hover {
+  color: var(--body-link-hover);
+}
+
+/* 2. Blog Feed Card Hover Animations */
+.list__item {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 1.25em !important;
+  margin-bottom: 1em !important;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.25s ease, border-color 0.25s ease !important;
+  cursor: pointer;
+}
+
+.list__item:hover {
+  transform: translateY(-3px) scale(1.005);
+  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.06);
+  border-color: var(--card-hover-border) !important;
+}
+
+.archive__item-title {
+  font-family: $serif;
+  font-weight: 700;
+  margin-top: 0 !important;
+}
+
+.archive__item-title a {
+  color: var(--primary-color) !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+}
+
+.list__item:hover .archive__item-title a {
+  color: var(--accent-color) !important;
+}
+
+.archive__item-excerpt {
+  font-size: 0.9rem;
+  color: #475569;
+  line-height: 1.5;
+}
+
+/* 3. Pagination Pill buttons */
+.pagination ul li a {
+  border-radius: 20px !important;
+  padding: 0.4em 0.8em !important;
+  border: 1px solid #e2e8f0 !important;
+  font-weight: 500;
+  transition: all 0.2s ease !important;
+}
+
+.pagination ul li a.current,
+.pagination ul li a:hover {
+  background-color: var(--accent-color) !important;
+  border-color: var(--accent-color) !important;
+  color: #ffffff !important;
+}
+
+/* 4. Elegant notices */
+.notice, .notice--info, .notice--warning, .notice--danger, .notice--success {
+  background-color: var(--notice-bg) !important;
+  border-left: 4px solid var(--notice-border) !important;
+  border-radius: 0 6px 6px 0 !important;
+  color: #334155 !important;
+  padding: 1em 1.25em !important;
+  margin: 1.5em 0 !important;
+}
+
 
 
 
