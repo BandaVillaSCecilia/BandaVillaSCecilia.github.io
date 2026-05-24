@@ -98,7 +98,7 @@ references:
 - [Congedati della Fanfara Brigata Alpina Taurinense](http://www.congedatifanfarataurinense.it/)
 - [Associazione Amici dei Bambini Cardiopatici](https://www.aabambinicardiopatici.it/)
 - [Amici del Po](http://www.amicidelpo.net/)
-- [Comitato 'l ciuchè](http://www.comitatolciuche.it/)
+<!-- - [Comitato 'l ciuchè](http://www.comitatolciuche.it/)
 - [Traghetto sul fiume Po](http://web.tiscali.it/traghettosulpo/)
 - [Piero Strobino](http://spazioinwind.libero.it/strobino/)
-<!-- - [Doleatto Lorenzo Acconciature](http://www.doleattolorenzo.com/) -->
+- [Doleatto Lorenzo Acconciature](http://www.doleattolorenzo.com/) -->
