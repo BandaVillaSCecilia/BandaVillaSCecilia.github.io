@@ -18,3 +18,19 @@ iframe, embed, object, video {
   height: auto;
 }
 
+/* Flexbox Sticky Footer */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.initial-content {
+  flex: 1 0 auto;
+}
+
+.page__footer {
+  flex-shrink: 0;
+}
+
+
