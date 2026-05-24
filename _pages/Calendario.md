@@ -1,9 +1,9 @@
 ---
 layout: single
+title: "Calendario Eventi"
 permalink: /calendario/
 ---
 
-## Calendario
 
 Calendario di prove e servizi della nostra Banda Musicale.
 

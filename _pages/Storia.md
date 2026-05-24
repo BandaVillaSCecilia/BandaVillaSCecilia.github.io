@@ -1,9 +1,9 @@
 ---
 layout: single
+title: "La Storia"
 permalink: /storia/
 ---
 
-## La Storia
 
 **1885:** le origini della nostra associazione risalgono a  tempi piuttosto lontani. Nel 1877 una Banda Musicale sfilava già per le vie del paese:  secondo alcuni documenti storici, in quell'anno giunse in paese il maestro di musica Giachino Luigi per istruire gli allievi della locale Società Filarmonica.  
 {: .text-justify}  

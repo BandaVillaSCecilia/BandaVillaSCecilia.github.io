@@ -1,9 +1,9 @@
 ---
 layout: single
+title: "La Scuola"
 permalink: /scuola/
 ---
 
-## La Scuola
 
 Chi fosse interessato ad imparare a suonare uno strumento musicale, o a diventare majorette si può presentare nelle rispettive sedi agli orari sotto elencati. Ricordiamo, se minorenne, di venire possibilmente accompagnato da un genitore.  
 Per qualunque altra informazione visitate la sezione [contatti](/contatti/).

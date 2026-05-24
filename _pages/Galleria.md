@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "La Galleria"
 permalink: /galleria/
 gallery:
   - url: https://photos.app.goo.gl/cpNqAszsRV8UbyY78
@@ -112,7 +113,6 @@ gallery:
     title: "Immagini storiche"
 ---
 
-## Galleria Fotografica
 
 Qui di seguito la galleria fotografica della nostra Banda Musicale. Cliccando su una foto verrete reinderizzati al corrispettivo album fotografico.
 {: .text-justify}

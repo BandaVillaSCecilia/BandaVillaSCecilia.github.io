@@ -48,6 +48,37 @@ body {
   flex-shrink: 0;
 }
 
+/* --- Elegant Bold Savoy Crimson Masthead & Navigation System --- */
+.masthead {
+  background-color: var(--primary-color) !important; /* Deep Savoy Crimson background */
+  border-bottom: 3px solid var(--accent-color) !important; /* Dynamic Royal Gold bottom border */
+  padding: 0.5em 0 !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  position: -webkit-sticky !important; /* Safari compatibility */
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 999 !important;
+}
+
+.masthead__inner-wrap {
+  max-width: 100% !important;
+  padding: 0 1.5rem !important;
+}
+
+/* Common Masthead Site Title Link styling */
+.masthead .site-title {
+  font-family: $serif !important;
+  font-weight: 800 !important;
+  color: #ffffff !important; /* Highly contrasting white */
+  text-decoration: none !important;
+  letter-spacing: 0.5px;
+  transition: color 0.2s ease-in-out !important;
+}
+
+.masthead .site-title:hover {
+  color: var(--accent-color) !important; /* Gold on hover */
+}
+
 /* Mobile Masthead Styles (below 48em / 768px) */
 .masthead__nav-mobile {
   display: flex !important; /* Visible on mobile */
@@ -55,6 +86,66 @@ body {
 
 .masthead__nav-desktop {
   display: none; /* Hidden on mobile */
+}
+
+/* Mobile Navigation (.greedy-nav) overrides */
+.greedy-nav {
+  background-color: transparent !important;
+}
+
+.greedy-nav a {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.greedy-nav a:hover {
+  color: var(--accent-color) !important;
+}
+
+.greedy-nav__toggle {
+  color: #ffffff !important;
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.greedy-nav__toggle:hover {
+  background-color: transparent !important;
+}
+
+/* White Hamburger Menu (navicon bars) */
+.greedy-nav .navicon,
+.greedy-nav .navicon:before,
+.greedy-nav .navicon:after {
+  background: #ffffff !important;
+}
+
+.greedy-nav__toggle:hover .navicon,
+.greedy-nav__toggle:hover .navicon:before,
+.greedy-nav__toggle:hover .navicon:after {
+  background: var(--accent-color) !important; /* Turn gold on hover */
+}
+
+/* Mobile Dropdown styling (hidden links) */
+.greedy-nav .hidden-links {
+  background-color: var(--primary-color) !important;
+  border: 1px solid var(--accent-color) !important;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  top: 100% !important;
+}
+
+.greedy-nav .hidden-links li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.greedy-nav .hidden-links a {
+  color: #ffffff !important;
+  padding: 0.75em 1em !important;
+  display: block !important;
+}
+
+.greedy-nav .hidden-links a:hover {
+  color: var(--accent-color) !important;
+  background-color: rgba(255, 255, 255, 0.05) !important;
 }
 
 /* Desktop & Tablet Masthead Styles (48em / 768px and up) */
@@ -72,16 +163,11 @@ body {
   .masthead__title-row {
     text-align: center;
     padding: 0.75em 0 0.5em 0; /* Tightened top/bottom padding */
-    border-bottom: 2px solid var(--masthead-border) !important; /* Dynamic border under title */
+    border-bottom: 2px solid rgba(255, 255, 255, 0.15) !important; /* Elegant subtle divider under title */
   }
   
   .masthead__title-row .site-title {
-    font-family: $serif !important;
     font-size: 1.6rem !important;
-    font-weight: 700;
-    color: var(--primary-color) !important;
-    text-decoration: none;
-    letter-spacing: 0.5px;
   }
 
   /* Center the menu items row with tight padding */
@@ -108,12 +194,12 @@ body {
     text-decoration: none;
     font-size: 0.95rem;
     font-weight: 500;
-    color: #475569 !important;
+    color: rgba(255, 255, 255, 0.9) !important; /* Highly contrasting soft white link text */
     transition: all 0.2s ease-in-out !important;
   }
 
   .masthead__menu-item-desktop a:hover {
-    color: var(--accent-color) !important;
+    color: var(--accent-color) !important; /* Gold on hover */
     transform: translateY(-1px);
   }
 
@@ -121,8 +207,8 @@ body {
   .masthead__menu-item-desktop i {
     margin-right: 0.4em;
     font-size: 0.9rem;
-    color: currentColor;
-    opacity: 0.8;
+    color: var(--accent-color) !important; /* Deep Royal Gold icons */
+    opacity: 1 !important;
   }
 }
 
@@ -218,6 +304,48 @@ body {
   color: #334155 !important;
   padding: 1em 1.25em !important;
   margin: 1.5em 0 !important;
+}
+
+/* --- Bold Savoy Crimson Page Header Banner --- */
+.page__inner-wrap > header {
+  background-color: var(--primary-color) !important; /* Deep Savoy Crimson background */
+  border-radius: 8px;
+  padding: 1.75em 2em !important;
+  margin-bottom: 2em !important;
+  box-shadow: 0 10px 30px rgba(127, 29, 29, 0.06);
+  border: 1px solid rgba(197, 160, 89, 0.15); /* Gold outline */
+}
+
+.page__inner-wrap > header .page__title {
+  color: #ffffff !important; /* Contrasting white text */
+  font-family: $serif !important;
+  font-weight: 800 !important;
+  font-size: 1.8rem !important;
+  margin: 0 0 0.4em 0 !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  line-height: 1.25 !important;
+}
+
+.page__inner-wrap > header .page__title a {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+.page__inner-wrap > header .page__title a:hover {
+  color: var(--accent-color) !important; /* Gold on hover */
+}
+
+.page__inner-wrap > header .page__meta {
+  color: rgba(255, 255, 255, 0.8) !important; /* Contrasting muted white text */
+  font-size: 0.85rem !important;
+  margin: 0 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.page__inner-wrap > header .page__meta i {
+  color: var(--accent-color) !important; /* Gold icons */
+  margin-right: 0.4em;
 }
 
 

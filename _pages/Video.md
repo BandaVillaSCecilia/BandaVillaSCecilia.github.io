@@ -1,9 +1,9 @@
 ---
 layout: single
+title: "I Video"
 permalink: /video/
 ---
 
-## Video
 
 Un estratto della galleria video della nostra Banda, visibile sul nostro canale [YouTube](http://bit.ly/YoutubeBandaVilla).  
 {: .text-justify}  
