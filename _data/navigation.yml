@@ -1,32 +1,32 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
   - title: "5x1000 e Liberalità"
     url: /5x1000/
+    icon: "fas fa-hand-holding-usd"
   - title: "La Galleria"
     url: /galleria/
+    icon: "fas fa-images"
   - title: "I Video"
     url: /video/
+    icon: "fas fa-video"
   - title: "Calendario Eventi"
     url: /calendario/
+    icon: "fas fa-calendar-alt"
   - title: "La Banda"
     url: /banda/
+    icon: "fas fa-music"
   - title: "Le Majorettes"
     url: /majorettes/
+    icon: "fas fa-star"
   - title: "La Storia"
     url: /storia/
+    icon: "fas fa-history"
   - title: "La Scuola"
     url: /scuola/
+    icon: "fas fa-graduation-cap"
   - title: "I Contatti"
     url: /contatti/
+    icon: "fas fa-envelope"
   - title: "Privacy"
     url: /privacy/
+    icon: "fas fa-user-shield"

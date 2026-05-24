@@ -33,4 +33,59 @@ body {
   flex-shrink: 0;
 }
 
+/* Custom Centered 2-Row Masthead Layout for Tablet & Desktop */
+@media (min-width: 48em) { /* Triggers at 768px (iPads, tablets, desktops) */
+  .greedy-nav {
+    flex-direction: column;
+    align-items: center;
+    padding: 1em 0;
+  }
+  
+  .greedy-nav .site-title {
+    margin-right: 0;
+    margin-bottom: 0.75em;
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+  
+  .greedy-nav .visible-links {
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  
+  .greedy-nav .visible-links li {
+    margin-right: 1.5em;
+    margin-bottom: 0.5em; /* Allows neat wrapping if screen size shrinks slightly */
+  }
+  
+  .greedy-nav .visible-links li:last-child {
+    margin-right: 0;
+  }
+  
+  .greedy-nav__toggle {
+    display: none !important; /* Completely bypasses greedy collapsing dropdown */
+  }
+  
+  /* Icon alignment in navigation menu */
+  .masthead__menu-item a {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.95rem;
+  }
+  
+  .masthead__menu-item i {
+    margin-right: 0.4em;
+    color: currentColor;
+    opacity: 0.85;
+    font-size: 0.9rem;
+  }
+}
+
+
 
