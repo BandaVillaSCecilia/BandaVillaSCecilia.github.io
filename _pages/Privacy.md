@@ -1,9 +1,9 @@
 ---
 layout: single
+title: "Privacy"
 permalink: /privacy/
 ---
 
-## Regolamento generale sulla protezione dei dati (GDPR)
  
 
 ### Informativa ai sensi del Regolamento UE 2016/679 (“GDPR”)

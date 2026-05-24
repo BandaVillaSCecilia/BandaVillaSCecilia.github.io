@@ -4,4 +4,424 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes";
+/* --- Unified Typography Setup (Premium Clean Sans-Serif) --- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+/* --- Theme Variable Overrides (Savoy Crimson & Royal Gold Default) --- */
+$sans-serif: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$serif: $sans-serif; /* Set both variables to Inter to prevent a mix of fonts */
+
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+
+$primary-color: #7f1d1d;      /* Savoy Crimson (Default Theme) */
+$info-color:    #c5a059;      /* Royal Gold */
+$link-color:    #c5a059;      /* Gold for links */
+$link-color-hover: #b08b43;    /* Antique Darker Gold for hover */
+
+@import "minimal-mistakes/skins/default"; // skin
+@import "minimal-mistakes"; // main styles
+
+/* Custom Native Modern Utility CSS */
+html {
+  scroll-behavior: smooth;
+}
+
+iframe, embed, object, video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: auto;
+}
+
+/* Flexbox Sticky Footer */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.initial-content {
+  flex: 1 0 auto;
+}
+
+.page__footer {
+  flex-shrink: 0;
+}
+
+/* --- Elegant Bold Savoy Crimson Masthead & Navigation System --- */
+.masthead {
+  background-color: var(--primary-color) !important; /* Deep Savoy Crimson background */
+  border-bottom: 3px solid var(--accent-color) !important; /* Dynamic Royal Gold bottom border */
+  padding: 0.5em 0 !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  position: -webkit-sticky !important; /* Safari compatibility */
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 999 !important;
+}
+
+.masthead__inner-wrap {
+  max-width: 100% !important;
+  padding: 0 1.5rem !important;
+}
+
+/* Common Masthead Site Title Link styling */
+.masthead .site-title {
+  font-family: $serif !important;
+  font-weight: 800 !important;
+  color: #ffffff !important; /* Highly contrasting white */
+  text-decoration: none !important;
+  letter-spacing: 0.5px;
+  transition: color 0.2s ease-in-out !important;
+}
+
+.masthead .site-title:hover {
+  color: var(--accent-color) !important; /* Gold on hover */
+}
+
+/* Mobile Masthead Styles (below 48em / 768px) */
+.masthead__nav-mobile {
+  display: flex !important; /* Visible on mobile */
+}
+
+.masthead__nav-desktop {
+  display: none; /* Hidden on mobile */
+}
+
+/* Mobile Navigation (.greedy-nav) overrides */
+.greedy-nav {
+  background-color: transparent !important;
+}
+
+.greedy-nav a {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.greedy-nav a:hover {
+  color: var(--accent-color) !important;
+}
+
+.greedy-nav__toggle {
+  color: #ffffff !important;
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.greedy-nav__toggle:hover {
+  background-color: transparent !important;
+}
+
+/* White Hamburger Menu (navicon bars) */
+.greedy-nav .navicon,
+.greedy-nav .navicon:before,
+.greedy-nav .navicon:after {
+  background: #ffffff !important;
+}
+
+.greedy-nav__toggle:hover .navicon,
+.greedy-nav__toggle:hover .navicon:before,
+.greedy-nav__toggle:hover .navicon:after {
+  background: var(--accent-color) !important; /* Turn gold on hover */
+}
+
+/* Mobile Dropdown styling (hidden links) */
+.greedy-nav .hidden-links {
+  background-color: var(--primary-color) !important;
+  border: 1px solid var(--accent-color) !important;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  top: 100% !important;
+}
+
+.greedy-nav .hidden-links li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.greedy-nav .hidden-links a {
+  color: #ffffff !important;
+  padding: 0.75em 1em !important;
+  display: block !important;
+}
+
+.greedy-nav .hidden-links a:hover {
+  color: var(--accent-color) !important;
+  background-color: rgba(255, 255, 255, 0.05) !important;
+}
+
+/* Desktop & Tablet Masthead Styles (48em / 768px and up) */
+@media (min-width: 48em) {
+  .masthead__nav-mobile {
+    display: none !important; /* Hide mobile menu */
+  }
+  
+  .masthead__nav-desktop {
+    display: block; /* Show desktop menu */
+    width: 100%;
+  }
+
+  /* Center the title row and tighten the padding */
+  .masthead__title-row {
+    text-align: center;
+    padding: 0.75em 0 0.5em 0; /* Tightened top/bottom padding */
+    border-bottom: 2px solid rgba(255, 255, 255, 0.15) !important; /* Elegant subtle divider under title */
+  }
+  
+  .masthead__title-row .site-title {
+    font-size: 1.6rem !important;
+  }
+
+  /* Center the menu items row with tight padding */
+  .masthead__menu-row {
+    padding: 0.5em 0; /* Tightened menu padding */
+  }
+
+  .visible-links-desktop {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .masthead__menu-item-desktop {
+    margin: 0.25em 0.85em; /* Tightened horizontal and vertical margin for clean wrap */
+  }
+
+  .masthead__menu-item-desktop a {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.9) !important; /* Highly contrasting soft white link text */
+    transition: all 0.2s ease-in-out !important;
+  }
+
+  .masthead__menu-item-desktop a:hover {
+    color: var(--accent-color) !important; /* Gold on hover */
+    transform: translateY(-1px);
+  }
+
+  /* Style flat icons next to page links */
+  .masthead__menu-item-desktop i {
+    margin-right: 0.4em;
+    font-size: 0.9rem;
+    color: var(--accent-color) !important; /* Deep Royal Gold icons */
+    opacity: 1 !important;
+  }
+}
+
+/* --- Dynamic Theme Custom Properties --- */
+:root {
+  --primary-color: #7f1d1d;        /* Savoy Crimson (Default Theme) */
+  --accent-color: #c5a059;         /* Royal Gold */
+  --accent-hover: #b08b43;         /* Antique Gold */
+  --card-hover-border: rgba(197, 160, 89, 0.3);
+  --notice-bg: rgba(153, 27, 27, 0.05);
+  --notice-border: #c5a059;
+  --masthead-border: #c5a059;
+  --body-link-color: #991b1b;      /* Crimson links in body text */
+  --body-link-hover: #c5a059;      /* Turn Gold on hover */
+}
+
+/* --- Targeted Theme Link Overrides --- */
+.page__content a:not(.btn),
+.archive__item-title a,
+.author__profile a,
+.page__footer a {
+  color: var(--body-link-color);
+}
+
+.page__content a:not(.btn):hover,
+.archive__item-title a:hover,
+.author__profile a:hover,
+.page__footer a:hover {
+  color: var(--body-link-hover);
+}
+
+/* 2. Blog Feed Card Hover Animations */
+.list__item {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 1.25em !important;
+  margin-bottom: 1em !important;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.25s ease, border-color 0.25s ease !important;
+  cursor: pointer;
+}
+
+.list__item:hover {
+  transform: translateY(-3px) scale(1.005);
+  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.06);
+  border-color: var(--card-hover-border) !important;
+}
+
+.archive__item-title {
+  font-family: $serif;
+  font-weight: 700;
+  margin-top: 0 !important;
+}
+
+.archive__item-title a {
+  color: var(--primary-color) !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+}
+
+.list__item:hover .archive__item-title a {
+  color: var(--accent-color) !important;
+}
+
+.archive__item-excerpt {
+  font-size: 0.9rem;
+  color: #475569;
+  line-height: 1.5;
+}
+
+/* 3. Pagination Pill buttons */
+.pagination ul li a {
+  border-radius: 20px !important;
+  padding: 0.4em 0.8em !important;
+  border: 1px solid #e2e8f0 !important;
+  font-weight: 500;
+  transition: all 0.2s ease !important;
+}
+
+.pagination ul li a.current,
+.pagination ul li a:hover {
+  background-color: var(--accent-color) !important;
+  border-color: var(--accent-color) !important;
+  color: #ffffff !important;
+}
+
+/* 4. Elegant notices */
+.notice, .notice--info, .notice--warning, .notice--danger, .notice--success {
+  background-color: var(--notice-bg) !important;
+  border-left: 4px solid var(--notice-border) !important;
+  border-radius: 0 6px 6px 0 !important;
+  color: #334155 !important;
+  padding: 1em 1.25em !important;
+  margin: 1.5em 0 !important;
+}
+
+/* --- Bold Savoy Crimson Page Header Banner --- */
+.page__inner-wrap > header {
+  background-color: var(--primary-color) !important; /* Deep Savoy Crimson background */
+  border-radius: 8px;
+  padding: 1.75em 2em !important;
+  margin-bottom: 2em !important;
+  box-shadow: 0 10px 30px rgba(127, 29, 29, 0.06);
+  border: 1px solid rgba(197, 160, 89, 0.15); /* Gold outline */
+}
+
+.page__inner-wrap > header .page__title {
+  color: #ffffff !important; /* Contrasting white text */
+  font-family: $serif !important;
+  font-weight: 800 !important;
+  font-size: 1.8rem !important;
+  margin: 0 0 0.4em 0 !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  line-height: 1.25 !important;
+}
+
+.page__inner-wrap > header .page__title a {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+.page__inner-wrap > header .page__title a:hover {
+  color: var(--accent-color) !important; /* Gold on hover */
+}
+
+.page__inner-wrap > header .page__meta {
+  color: rgba(255, 255, 255, 0.8) !important; /* Contrasting muted white text */
+  font-size: 0.85rem !important;
+  margin: 0 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.page__inner-wrap > header .page__meta i {
+  color: var(--accent-color) !important; /* Gold icons */
+  margin-right: 0.4em;
+}
+
+/* --- Balanced, Premium Interactive Logo Galleries --- */
+.page__content figure.half,
+.page__content figure.third {
+  display: flex !important;
+  justify-content: flex-start !important; /* Align left with natural wrapping */
+  align-items: stretch !important; /* Keep cards in the same row equal height */
+  flex-wrap: wrap !important;
+  gap: 1.25em !important; /* Even spacing between cards */
+  margin: 1.5em 0 !important;
+}
+
+/* Make each link a gorgeous white card */
+.page__content figure.half > a,
+.page__content figure.third > a {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  height: 120px !important;
+  background: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 8px !important;
+  padding: 1.25em !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02) !important;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  box-sizing: border-box !important;
+  
+  /* Responsive Width Overrides for gap spacing */
+  width: 100% !important; /* Full width on extra small mobile */
+}
+
+/* Adjust card width on mobile/tablet (2 columns) */
+@media (min-width: 30em) {
+  .page__content figure.third > a {
+    width: calc(50% - 0.625em) !important; /* 2 columns */
+  }
+}
+
+/* Adjust card width on desktop (3 columns for third) */
+@media (min-width: 48em) {
+  .page__content figure.third > a {
+    width: calc(33.3333% - 0.85em) !important; /* 3 columns */
+  }
+  .page__content figure.half > a {
+    width: calc(50% - 0.625em) !important; /* 2 columns */
+  }
+}
+
+/* Card Hover Animation */
+.page__content figure.half > a:hover,
+.page__content figure.third > a:hover {
+  border-color: var(--accent-color) !important; /* Gold border outline */
+  box-shadow: 0 10px 25px rgba(197, 160, 89, 0.12) !important;
+  transform: translateY(-3px) scale(1.02);
+}
+
+/* Balance Logo Images Inside the Cards */
+.page__content figure.half > a img,
+.page__content figure.third > a img {
+  max-width: 90% !important;
+  max-height: 80% !important;
+  width: auto !important; /* Keep natural aspect ratio */
+  height: auto !important; /* Keep natural aspect ratio */
+  object-fit: contain !important; /* Prevent distortion */
+  border-radius: 0 !important; /* Reset standard image border radius */
+  filter: grayscale(10%) contrast(100%); /* Make colors balanced */
+  transition: filter 0.2s ease-in-out !important;
+}
+
+.page__content figure.half > a:hover img,
+.page__content figure.third > a:hover img {
+  filter: grayscale(0%) contrast(105%); /* Full colors on hover */
+}
+
+
+
+
+
