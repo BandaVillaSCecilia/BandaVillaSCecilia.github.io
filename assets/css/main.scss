@@ -348,6 +348,80 @@ body {
   margin-right: 0.4em;
 }
 
+/* --- Balanced, Premium Interactive Logo Galleries --- */
+.page__content figure.half,
+.page__content figure.third {
+  display: flex !important;
+  justify-content: flex-start !important; /* Align left with natural wrapping */
+  align-items: stretch !important; /* Keep cards in the same row equal height */
+  flex-wrap: wrap !important;
+  gap: 1.25em !important; /* Even spacing between cards */
+  margin: 1.5em 0 !important;
+}
+
+/* Make each link a gorgeous white card */
+.page__content figure.half > a,
+.page__content figure.third > a {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  height: 120px !important;
+  background: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 8px !important;
+  padding: 1.25em !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02) !important;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  box-sizing: border-box !important;
+  
+  /* Responsive Width Overrides for gap spacing */
+  width: 100% !important; /* Full width on extra small mobile */
+}
+
+/* Adjust card width on mobile/tablet (2 columns) */
+@media (min-width: 30em) {
+  .page__content figure.third > a {
+    width: calc(50% - 0.625em) !important; /* 2 columns */
+  }
+}
+
+/* Adjust card width on desktop (3 columns for third) */
+@media (min-width: 48em) {
+  .page__content figure.third > a {
+    width: calc(33.3333% - 0.85em) !important; /* 3 columns */
+  }
+  .page__content figure.half > a {
+    width: calc(50% - 0.625em) !important; /* 2 columns */
+  }
+}
+
+/* Card Hover Animation */
+.page__content figure.half > a:hover,
+.page__content figure.third > a:hover {
+  border-color: var(--accent-color) !important; /* Gold border outline */
+  box-shadow: 0 10px 25px rgba(197, 160, 89, 0.12) !important;
+  transform: translateY(-3px) scale(1.02);
+}
+
+/* Balance Logo Images Inside the Cards */
+.page__content figure.half > a img,
+.page__content figure.third > a img {
+  max-width: 90% !important;
+  max-height: 80% !important;
+  width: auto !important; /* Keep natural aspect ratio */
+  height: auto !important; /* Keep natural aspect ratio */
+  object-fit: contain !important; /* Prevent distortion */
+  border-radius: 0 !important; /* Reset standard image border radius */
+  filter: grayscale(10%) contrast(100%); /* Make colors balanced */
+  transition: filter 0.2s ease-in-out !important;
+}
+
+.page__content figure.half > a:hover img,
+.page__content figure.third > a:hover img {
+  filter: grayscale(0%) contrast(105%); /* Full colors on hover */
+}
+
+
 
 
 
