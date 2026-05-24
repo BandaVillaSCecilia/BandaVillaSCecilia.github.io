@@ -4,4 +4,17 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes";
+@import "minimal-mistakes/skins/default"; // skin
+@import "minimal-mistakes"; // main styles
+
+/* Custom Native Modern Utility CSS */
+html {
+  scroll-behavior: smooth;
+}
+
+iframe, embed, object, video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: auto;
+}
+

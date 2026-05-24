@@ -1,4 +1,31 @@
 <!-- start custom footer snippets -->
 <div class="page__footer-copyright">Developed by <a href="http://bit.ly/HerrFriedLinkedIn" rel="nofollow">Federico BARBERO</a></div>
 <div class="page__footer-copyright">For any issue please send an email to <a href="mailto:webmaster@bandavillafrancapiemonte.it" rel="nofollow">webmaster@bandavillafrancapiemonte.it</a></div>
+<!-- GLightbox Javascript -->
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Select all links that point to images and add glightbox class
+    const imageExtensions = ['.jpg', '.jpeg', '.JPG', '.png', '.gif'];
+    document.querySelectorAll("a").forEach(link => {
+      const href = link.getAttribute('href');
+      if (href) {
+        // Clean up query parameters or hashes in comparison
+        const cleanHref = href.split('?')[0].split('#')[0];
+        if (imageExtensions.some(ext => cleanHref.endsWith(ext))) {
+          link.classList.add('glightbox');
+        }
+      }
+    });
+
+    // Initialize GLightbox
+    const lightbox = GLightbox({
+      selector: '.glightbox',
+      loop: true,
+      openEffect: 'zoom',
+      closeEffect: 'zoom'
+    });
+  });
+</script>
 <!-- end custom footer snippets -->
+
